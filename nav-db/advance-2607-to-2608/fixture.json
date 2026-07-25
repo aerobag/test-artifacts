@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "purpose": "transactional runtime NAVDB advance from 2607 to 2608",
+  "source": {
+    "publication_build": "master-ec68e4e91ce5/20260718T234628Z",
+    "current_artifacts_filename": "source/current_artifacts.json",
+    "current_artifacts_sha256": "c8083ab8c1dda0aff830b7f8845b74ae716e7ac9af910ecf963b35363df2e8e3"
+  },
+  "cycles": [
+    {
+      "cycle": "2607",
+      "contract_id": "NAV12",
+      "start_valid": "2026-07-09",
+      "end_valid": "2026-08-06",
+      "bundle": {
+        "filename": "source/packaged/bundle_cycle_2607_01_d54e602b4bfaaacdda1999c5c760efc8dc9f94e382a0477c2ccb42971e61546c.json",
+        "sha256": "d54e602b4bfaaacdda1999c5c760efc8dc9f94e382a0477c2ccb42971e61546c",
+        "size_bytes": 71460
+      },
+      "nav_db": {
+        "filename": "source/packaged/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c.zip",
+        "sha256": "bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c",
+        "size_bytes": 15051985
+      }
+    },
+    {
+      "cycle": "2608",
+      "contract_id": "NAV12",
+      "start_valid": "2026-08-06",
+      "end_valid": "2026-09-03",
+      "bundle": {
+        "filename": "source/packaged/bundle_cycle_2608_01_c5cea2834c1598d1b1213e04b106a3eff22e309646a43639dedfd2620b9479d5.json",
+        "sha256": "c5cea2834c1598d1b1213e04b106a3eff22e309646a43639dedfd2620b9479d5",
+        "size_bytes": 71460
+      },
+      "nav_db": {
+        "filename": "source/packaged/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f.zip",
+        "sha256": "193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f",
+        "size_bytes": 15049667
+      }
+    }
+  ]
+}

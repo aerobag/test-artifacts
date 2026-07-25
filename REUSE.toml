@@ -1,0 +1,21 @@
+version = 1
+SPDX-PackageName = "Aerobag Test Artifacts"
+SPDX-PackageDownloadLocation = "https://github.com/aerobag/test-artifacts"
+
+[[annotations]]
+path = [".gitattributes", "REUSE.toml", "**.md", "**/**.md", "**/**/**.md", "**/**/**/**.md", "**.json", "**/**.json", "**/**/**.json", "**/**/**/**.json", "**/**/**/**/**.json"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Aerobag contributors"
+SPDX-License-Identifier = "CC0-1.0"
+
+[[annotations]]
+path = ["metars/delta-three-hour/**.zip", "nav-db/advance-2607-to-2608/source/packaged/**.zip", "nexrad/source-grid-three-hour/raw/**.gz", "notams/nms-api-trace/initial/**.gz", "notams/nms-api-trace/polls.jsonl.gz", "obstacles/delta-trace/**.zip", "winds-aloft/cycle-trace/**.zip"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = "United States Government"
+SPDX-License-Identifier = "LicenseRef-US-Government-Public-Domain"
+
+[[annotations]]
+path = "e2e/android-smoke-publication/published/**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["United States Government", "2026 Aerobag contributors"]
+SPDX-License-Identifier = "LicenseRef-US-Government-Public-Domain AND CC0-1.0"

@@ -1,0 +1,44 @@
+{
+  "schema_version": 2,
+  "usage_notice": "TEST DATA ONLY - NOT FOR NAVIGATION",
+  "captured_by_commit": "0fd81f0a",
+  "source_environment": "staging",
+  "initial_load_captured_at_utc": "2026-07-24T15:32:07.426340349+00:00",
+  "initial_load": [
+    {
+      "classification": "DOMESTIC",
+      "feature_collection_timestamp": "2026-07-24T15:30:03.540Z",
+      "declared_record_count": 26864,
+      "parsed_message_count": 26864,
+      "canonical_record_count": 26864,
+      "file": {
+        "path": "initial/domestic.xml.gz",
+        "bytes": 26080885,
+        "sha256": "e70ebc84592aaa3abb7d48f57bf9fa96c708cd6463d6ef8eb48655767f7f9f4d"
+      }
+    },
+    {
+      "classification": "FDC",
+      "feature_collection_timestamp": "2026-07-24T15:30:04.301Z",
+      "declared_record_count": 5766,
+      "parsed_message_count": 5766,
+      "canonical_record_count": 5766,
+      "file": {
+        "path": "initial/fdc.xml.gz",
+        "bytes": 3886520,
+        "sha256": "531a0ed8be4260eb6be28d58be016aff607669ed38a80b5465792e26b7a3de56"
+      }
+    }
+  ],
+  "poll_trace": {
+    "file": {
+      "path": "polls.jsonl.gz",
+      "bytes": 1458411,
+      "sha256": "e809317ca764d6410a203084e384ba1ea6620adde73b66a88be6b213675f0874"
+    },
+    "poll_count": 498,
+    "update_count": 580,
+    "first_started_at_utc": "2026-07-24T15:41:51.412452459+00:00",
+    "last_completed_at_utc": "2026-07-25T17:17:48.484484822+00:00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "baseline_record_count": 32630,
+  "poll_count": 498,
+  "update_count": 580,
+  "transition_count": 182,
+  "mutation_count": 2231,
+  "removal_count": 1956,
+  "repeated_mutation_id_count": 105,
+  "final_state_id": "ccfa2008b8084692de1b7be0d1351faa8457f427832c57794d45fb8e2ab4b95d"
+}

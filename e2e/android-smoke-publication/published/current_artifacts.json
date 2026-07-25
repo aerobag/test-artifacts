@@ -1,0 +1,29 @@
+[
+  {
+    "schema_version": 1,
+    "contracts": {
+      "nav-db": "NAV12",
+      "tpp": "TPP1"
+    },
+    "artifact_roots": {
+      "packaged": "e2e-v1/packaged/",
+      "unpacked": "e2e-v1/unpacked/"
+    },
+    "as_of_date": "2026-07-25",
+    "as_of_utc": "2026-07-25T00:00:00Z",
+    "bundles": [
+      {
+        "filename": "bundle_e2e_2607_7227d03b3a26c991709c09c49a94e36d9bc43fc0dfdd8577509a517a052488da.json",
+        "relative_path": "bundle_e2e_2607_7227d03b3a26c991709c09c49a94e36d9bc43fc0dfdd8577509a517a052488da.json",
+        "id": "cycle_2607_01",
+        "bundle_type": "cycle",
+        "cycle": "2607",
+        "cycle_version": "01",
+        "start_valid": "2020-01-01",
+        "end_valid": "2100-01-01",
+        "checksum_sha256": "7227d03b3a26c991709c09c49a94e36d9bc43fc0dfdd8577509a517a052488da",
+        "size_bytes": 2247
+      }
+    ]
+  }
+]

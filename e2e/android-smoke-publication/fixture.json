@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "fixture": "android-smoke-publication",
+  "source_current_artifacts_sha256": "c8083ab8c1dda0aff830b7f8845b74ae716e7ac9af910ecf963b35363df2e8e3",
+  "source_bundle_sha256": "d54e602b4bfaaacdda1999c5c760efc8dc9f94e382a0477c2ccb42971e61546c",
+  "source_cycle": "2607",
+  "test_validity": {
+    "start": "2020-01-01",
+    "end": "2100-01-01"
+  },
+  "packages": [
+    {
+      "family_id": "nav-db",
+      "contract_id": "NAV12",
+      "filename": "nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c.zip",
+      "size_bytes": 15051985,
+      "sha256": "bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c"
+    },
+    {
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "filename": "tpp_nw_TPP1_2607_01_e2e_203d3d38fe9db872dea01a0305e0110afa6246302a9985f4a896b86ad9be3f31.zip",
+      "size_bytes": 550185,
+      "sha256": "203d3d38fe9db872dea01a0305e0110afa6246302a9985f4a896b86ad9be3f31",
+      "airport_id": "PLU",
+      "plate_count": 6
+    }
+  ]
+}

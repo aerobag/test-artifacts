@@ -1,0 +1,184 @@
+[
+  {
+    "schema_version": 1,
+    "contracts": {
+      "csup": "CSUP1",
+      "enr-h": "ENH1",
+      "enr-l": "ENL1",
+      "nav-db": "NAV12",
+      "sec": "SEC1",
+      "shaded-relief": "SHD1",
+      "tac": "TAC1",
+      "terrain": "TER2",
+      "tpp": "TPP1",
+      "world-basemap": "WBM1"
+    },
+    "artifact_roots": {
+      "packaged": "master-ec68e4e91ce5/20260718T234628Z/packaged/",
+      "unpacked": "master-ec68e4e91ce5/20260718T234628Z/unpacked/"
+    },
+    "as_of_date": "2026-07-19",
+    "as_of_utc": "2026-07-19T00:00:01Z",
+    "bundles": [
+      {
+        "filename": "bundle_cycle_2607_01_d54e602b4bfaaacdda1999c5c760efc8dc9f94e382a0477c2ccb42971e61546c.json",
+        "relative_path": "bundle_cycle_2607_01_d54e602b4bfaaacdda1999c5c760efc8dc9f94e382a0477c2ccb42971e61546c.json",
+        "id": "cycle_2607_01",
+        "bundle_type": "cycle",
+        "cycle": "2607",
+        "cycle_version": "01",
+        "start_valid": "2026-07-09",
+        "end_valid": "2026-08-06",
+        "checksum_sha256": "d54e602b4bfaaacdda1999c5c760efc8dc9f94e382a0477c2ccb42971e61546c",
+        "size_bytes": 71460
+      },
+      {
+        "filename": "bundle_cycle_2608_01_c5cea2834c1598d1b1213e04b106a3eff22e309646a43639dedfd2620b9479d5.json",
+        "relative_path": "bundle_cycle_2608_01_c5cea2834c1598d1b1213e04b106a3eff22e309646a43639dedfd2620b9479d5.json",
+        "id": "cycle_2608_01",
+        "bundle_type": "cycle",
+        "cycle": "2608",
+        "cycle_version": "01",
+        "start_valid": "2026-08-06",
+        "end_valid": "2026-09-03",
+        "checksum_sha256": "c5cea2834c1598d1b1213e04b106a3eff22e309646a43639dedfd2620b9479d5",
+        "size_bytes": 71460
+      }
+    ],
+    "startup_prefetch": {
+      "schema_version": 1,
+      "cycle_resources": [
+        {
+          "bundle_id": "cycle_2607_01",
+          "cycle": "2607",
+          "cycle_version": "01",
+          "start_valid": "2026-07-09",
+          "end_valid": "2026-08-06",
+          "resources": [
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/root"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_0045"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_0460"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_0461"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_0491"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_1410"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_1457"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2184"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2185"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2186"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2187"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2207"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2208"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2209"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2210"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2211"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2212"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2607_01_bcf5bb62d186a9f214a6fa027dde333441ae2676000116fadd30a21758d1022c/page_2475"
+            }
+          ]
+        },
+        {
+          "bundle_id": "cycle_2608_01",
+          "cycle": "2608",
+          "cycle_version": "01",
+          "start_valid": "2026-08-06",
+          "end_valid": "2026-09-03",
+          "resources": [
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/root"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_0045"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_0460"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_0461"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_0491"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_1409"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_1457"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2183"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2184"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2185"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2186"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2206"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2207"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2208"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2209"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2210"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2211"
+            },
+            {
+              "url": "master-ec68e4e91ce5/20260718T234628Z/unpacked/nav_db_NAV12_2608_01_193319fdd18ba981ebab22c25139e7ba0c3da3c080bdc12b63d20052c7572f5f/page_2474"
+            }
+          ]
+        }
+      ]
+    },
+    "diagnostics": {
+      "filename": "build_errors_20260719.json",
+      "error_count": 0
+    }
+  }
+]
