@@ -1,12 +1,12 @@
 # NAVDB Advance 2607 To 2608
 
-Immutable production NAV15 inputs for testing transactional
+Immutable production NAV16 inputs for testing transactional
 runtime NAVDB advance.
 
 Source publication identity:
 
 ```text
-main-c993b5979477/20260726T190946Z
+main-be9b0e084c7d/20260731T173719Z
 ```
 
 `source/` preserves the original publication index, selected cycle bundle

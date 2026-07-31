@@ -14,7 +14,7 @@ artifact-backed test tier.
 | Path | Contents |
 | --- | --- |
 | `metars/delta-three-hour/` | Three hours of generated METAR, TAF, and PIREP products |
-| `nav-db/advance-2607-to-2608/` | NAV12 packages for transactional cycle advance |
+| `nav-db/advance-2607-to-2608/` | NAV16 packages for transactional cycle advance |
 | `nexrad/source-grid-three-hour/` | Three hours of raw NOAA MRMS NEXRAD grids |
 | `notams/nms-api-trace/` | Raw FAA NMS Initial Load and incremental API trace |
 | `obstacles/delta-trace/` | Daily FAA DOF-derived obstacle products |
