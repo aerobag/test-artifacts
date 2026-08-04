@@ -1,0 +1,17 @@
+{
+  "resources": [
+    {
+      "blob_sha256": "cad45633db5076d8736e42eaeddf6d988d1933611d37a7280c4f5367a437458b",
+      "bytes": 336,
+      "kind": "notam_checkpoint_xz"
+    }
+  ],
+  "summary": {
+    "blob_sha256": null,
+    "collected_at_utc": "2026-01-01T00:00:00Z",
+    "payload_kind": "notam_resources",
+    "product": "notams",
+    "state_sha256": "fb2c6aa035e553522c03fda807fe182729b568fb6d13148e009010efdf6f42fb",
+    "version": "fb2c6aa035e553522c03fda807fe182729b568fb6d13148e009010efdf6f42fb"
+  }
+}

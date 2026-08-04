@@ -1,0 +1,9 @@
+{
+  "checkpoint_blob_sha256": "cad45633db5076d8736e42eaeddf6d988d1933611d37a7280c4f5367a437458b",
+  "checkpoint_bytes": 336,
+  "description": "Minimal persisted NOTAM cache for Android rotation lifecycle E2E",
+  "notam_record_count": 0,
+  "schema_version": 1,
+  "state_id": "fb2c6aa035e553522c03fda807fe182729b568fb6d13148e009010efdf6f42fb",
+  "usage_notice": "TEST DATA ONLY - NOT FOR NAVIGATION"
+}
