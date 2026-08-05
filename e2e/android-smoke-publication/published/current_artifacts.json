@@ -2,7 +2,7 @@
   {
     "schema_version": 1,
     "contracts": {
-      "nav-db": "NAV16",
+      "nav-db": "NAV17",
       "tpp": "TPP1"
     },
     "artifact_roots": {
@@ -13,16 +13,16 @@
     "as_of_utc": "2026-07-25T00:00:00Z",
     "bundles": [
       {
-        "filename": "bundle_e2e_2607_cfdfa80a406db2248c61e84e52f1594e67920acc053301240a118fc62509adc7.json",
-        "relative_path": "bundle_e2e_2607_cfdfa80a406db2248c61e84e52f1594e67920acc053301240a118fc62509adc7.json",
+        "filename": "bundle_e2e_2607_0143d4adb021d3d11ef2c60c8cb66590224cc7358df36e663d76dac52f51cb62.json",
+        "relative_path": "bundle_e2e_2607_0143d4adb021d3d11ef2c60c8cb66590224cc7358df36e663d76dac52f51cb62.json",
         "id": "cycle_2607_01",
         "bundle_type": "cycle",
         "cycle": "2607",
         "cycle_version": "01",
         "start_valid": "2020-01-01",
         "end_valid": "2100-01-01",
-        "checksum_sha256": "cfdfa80a406db2248c61e84e52f1594e67920acc053301240a118fc62509adc7",
-        "size_bytes": 2247
+        "checksum_sha256": "0143d4adb021d3d11ef2c60c8cb66590224cc7358df36e663d76dac52f51cb62",
+        "size_bytes": 2270
       }
     ]
   }
