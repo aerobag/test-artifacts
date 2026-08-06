@@ -2,186 +2,42 @@
   {
     "schema_version": 1,
     "contracts": {
-      "csup": "CSUP1",
-      "enr-h": "ENH1",
-      "enr-l": "ENL1",
-      "nav-db": "NAV18",
-      "sec": "SEC1",
-      "shaded-relief": "SHD1",
-      "tac": "TAC1",
-      "terrain": "TER2",
-      "tpp": "TPP1",
-      "world-basemap": "WBM1"
+      "nav-db": "NAV19",
+      "tpp": "TPP1"
     },
     "artifact_roots": {
-      "packaged": "main-8d27363a626a/20260805T235029Z/packaged/",
-      "unpacked": "main-8d27363a626a/20260805T235029Z/unpacked/"
+      "packaged": "fixture-build/packaged/",
+      "unpacked": "fixture-build/unpacked/"
     },
     "as_of_date": "2026-08-06",
-    "as_of_utc": "2026-08-06T00:03:52Z",
+    "as_of_utc": "2026-08-06T05:02:43Z",
     "bundles": [
       {
-        "filename": "bundle_cycle_2607_01_3d49840f1e967a84767930edf35bf76dfba83285e416e162f82604a7f325bd3b.json",
-        "relative_path": "bundle_cycle_2607_01_3d49840f1e967a84767930edf35bf76dfba83285e416e162f82604a7f325bd3b.json",
+        "filename": "bundle_cycle_2607_01_c953c6b05c23c7af904f0b196bd89b93d5a495cdf48ade49f136037aebddcbda.json",
+        "relative_path": "bundle_cycle_2607_01_c953c6b05c23c7af904f0b196bd89b93d5a495cdf48ade49f136037aebddcbda.json",
         "id": "cycle_2607_01",
         "bundle_type": "cycle",
         "cycle": "2607",
         "cycle_version": "01",
         "start_valid": "2026-07-09",
         "end_valid": "2026-08-06",
-        "checksum_sha256": "3d49840f1e967a84767930edf35bf76dfba83285e416e162f82604a7f325bd3b",
-        "size_bytes": 113887
+        "checksum_sha256": "c953c6b05c23c7af904f0b196bd89b93d5a495cdf48ade49f136037aebddcbda",
+        "size_bytes": 2285
       },
       {
-        "filename": "bundle_cycle_2608_01_bfce8634eefa74d61534dbb03f94a6507a1e9ed26b56d217b67aca43406c7867.json",
-        "relative_path": "bundle_cycle_2608_01_bfce8634eefa74d61534dbb03f94a6507a1e9ed26b56d217b67aca43406c7867.json",
+        "filename": "bundle_cycle_2608_01_873bfa3a420ce2272e1eb49c7fa2f083abc4e3994fe8a93cc2bc0656b60c8445.json",
+        "relative_path": "bundle_cycle_2608_01_873bfa3a420ce2272e1eb49c7fa2f083abc4e3994fe8a93cc2bc0656b60c8445.json",
         "id": "cycle_2608_01",
         "bundle_type": "cycle",
         "cycle": "2608",
         "cycle_version": "01",
         "start_valid": "2026-08-06",
         "end_valid": "2026-09-03",
-        "checksum_sha256": "bfce8634eefa74d61534dbb03f94a6507a1e9ed26b56d217b67aca43406c7867",
-        "size_bytes": 113887
+        "checksum_sha256": "873bfa3a420ce2272e1eb49c7fa2f083abc4e3994fe8a93cc2bc0656b60c8445",
+        "size_bytes": 113910
       }
     ],
-    "startup_prefetch": {
-      "schema_version": 1,
-      "cycle_resources": [
-        {
-          "bundle_id": "cycle_2607_01",
-          "cycle": "2607",
-          "cycle_version": "01",
-          "start_valid": "2026-07-09",
-          "end_valid": "2026-08-06",
-          "resources": [
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/root"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_0249"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_0663"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_0664"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_0701"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_1946"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_1994"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2774"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2775"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2776"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2777"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2778"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2799"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2800"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2801"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2802"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2803"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_2804"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19/page_3197"
-            }
-          ]
-        },
-        {
-          "bundle_id": "cycle_2608_01",
-          "cycle": "2608",
-          "cycle_version": "01",
-          "start_valid": "2026-08-06",
-          "end_valid": "2026-09-03",
-          "resources": [
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/root"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_0249"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_0663"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_0664"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_0701"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_1946"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_1994"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2774"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2775"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2776"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2777"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2778"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2799"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2800"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2801"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2802"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2803"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_2804"
-            },
-            {
-              "url": "main-8d27363a626a/20260805T235029Z/unpacked/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290/page_3197"
-            }
-          ]
-        }
-      ]
-    },
+    "startup_prefetch": null,
     "diagnostics": {
       "filename": "build_errors_20260806.json",
       "error_count": 0
