@@ -2,41 +2,41 @@
   "schema_version": 1,
   "purpose": "transactional runtime NAVDB advance from 2607 to 2608",
   "source": {
-    "publication_build": "main-c9b0232bbe8d/20260805T152018Z",
+    "publication_build": "main-8d27363a626a/20260805T235029Z",
     "current_artifacts_filename": "source/current_artifacts.json",
-    "current_artifacts_sha256": "1ce139ce8c616636c82f5654275a5166166e5caabe56bf7ca2515d6cfa82da04"
+    "current_artifacts_sha256": "eb373a0218d3695b46785c48b20e1c34f45eb9a0ab5198d4e1bb210cf4b24174"
   },
   "cycles": [
     {
       "cycle": "2607",
-      "contract_id": "NAV17",
+      "contract_id": "NAV18",
       "start_valid": "2026-07-09",
       "end_valid": "2026-08-06",
       "bundle": {
-        "filename": "source/packaged/bundle_cycle_2607_01_ca69f2414786ebcaf70096337e93958d56cf695fdf32269bc4348fc1688c30d4.json",
-        "sha256": "ca69f2414786ebcaf70096337e93958d56cf695fdf32269bc4348fc1688c30d4",
+        "filename": "source/packaged/bundle_cycle_2607_01_3d49840f1e967a84767930edf35bf76dfba83285e416e162f82604a7f325bd3b.json",
+        "sha256": "3d49840f1e967a84767930edf35bf76dfba83285e416e162f82604a7f325bd3b",
         "size_bytes": 113887
       },
       "nav_db": {
-        "filename": "source/packaged/nav_db_NAV17_2607_01_b765dfe6750736e990fda1f412968ea564ebdb27013ff0ebc83409bf9fd04940.zip",
-        "sha256": "b765dfe6750736e990fda1f412968ea564ebdb27013ff0ebc83409bf9fd04940",
-        "size_bytes": 20700619
+        "filename": "source/packaged/nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19.zip",
+        "sha256": "dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19",
+        "size_bytes": 20761291
       }
     },
     {
       "cycle": "2608",
-      "contract_id": "NAV17",
+      "contract_id": "NAV18",
       "start_valid": "2026-08-06",
       "end_valid": "2026-09-03",
       "bundle": {
-        "filename": "source/packaged/bundle_cycle_2608_01_967456cff91a5feac7fc9b5a64a9ea45d66b83601cdf448fff235a7a002a2435.json",
-        "sha256": "967456cff91a5feac7fc9b5a64a9ea45d66b83601cdf448fff235a7a002a2435",
+        "filename": "source/packaged/bundle_cycle_2608_01_bfce8634eefa74d61534dbb03f94a6507a1e9ed26b56d217b67aca43406c7867.json",
+        "sha256": "bfce8634eefa74d61534dbb03f94a6507a1e9ed26b56d217b67aca43406c7867",
         "size_bytes": 113887
       },
       "nav_db": {
-        "filename": "source/packaged/nav_db_NAV17_2608_01_32098dc88f1a545ed79fd550dc6ea256e36204a7286c26eb94fdb81955dd874c.zip",
-        "sha256": "32098dc88f1a545ed79fd550dc6ea256e36204a7286c26eb94fdb81955dd874c",
-        "size_bytes": 20699803
+        "filename": "source/packaged/nav_db_NAV18_2608_01_be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290.zip",
+        "sha256": "be42ee1accebaa06b6356e10b5e184ba4fcd28eaba154d6740935a35bc1fe290",
+        "size_bytes": 20759839
       }
     }
   ]

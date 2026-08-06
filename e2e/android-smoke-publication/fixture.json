@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "fixture": "android-smoke-publication",
-  "source_current_artifacts_sha256": "1ce139ce8c616636c82f5654275a5166166e5caabe56bf7ca2515d6cfa82da04",
-  "source_bundle_sha256": "ca69f2414786ebcaf70096337e93958d56cf695fdf32269bc4348fc1688c30d4",
+  "source_current_artifacts_sha256": "eb373a0218d3695b46785c48b20e1c34f45eb9a0ab5198d4e1bb210cf4b24174",
+  "source_bundle_sha256": "3d49840f1e967a84767930edf35bf76dfba83285e416e162f82604a7f325bd3b",
   "source_cycle": "2607",
   "test_validity": {
     "start": "2020-01-01",
@@ -11,10 +11,10 @@
   "packages": [
     {
       "family_id": "nav-db",
-      "contract_id": "NAV17",
-      "filename": "nav_db_NAV17_2607_01_b765dfe6750736e990fda1f412968ea564ebdb27013ff0ebc83409bf9fd04940.zip",
-      "size_bytes": 20700619,
-      "sha256": "b765dfe6750736e990fda1f412968ea564ebdb27013ff0ebc83409bf9fd04940"
+      "contract_id": "NAV18",
+      "filename": "nav_db_NAV18_2607_01_dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19.zip",
+      "size_bytes": 20761291,
+      "sha256": "dbc9817dc049fea39e2cb5ff1eaa50db23ef4a7a6e536356726c480f3353ed19"
     },
     {
       "family_id": "tpp",
