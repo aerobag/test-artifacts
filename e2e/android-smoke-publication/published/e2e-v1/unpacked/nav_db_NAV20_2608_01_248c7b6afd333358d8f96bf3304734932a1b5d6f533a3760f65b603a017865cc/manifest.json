@@ -1,0 +1,12 @@
+{
+  "contract_id": "NAV20",
+  "encoding": "had-nav-kv-v4",
+  "logical_bytes_len": 210632704,
+  "page_count": 3214,
+  "page_path_template": "page_{page:04}",
+  "page_size": 65536,
+  "product_id": "nav-db",
+  "root": "root",
+  "schema_version": 1,
+  "value_bytes_len": 28131162
+}
