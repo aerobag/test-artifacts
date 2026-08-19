@@ -1,0 +1,3204 @@
+{
+  "schema_version": 2,
+  "bundle_id": "cycle_2609_01",
+  "bundle_type": "cycle",
+  "cycle": "2609",
+  "cycle_version": "01",
+  "generated_at_utc": "2026-08-17T16:16:17Z",
+  "effective_date": "2026-09-03",
+  "expiration_date": "2026-10-01",
+  "start_valid": "2026-09-03",
+  "end_valid": "2026-10-01",
+  "packages": [
+    {
+      "id": "AK_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "ak",
+      "filename": "csup_ak_CSUP1_2609_01_d9dd1145d3f3cf3fb5145b8db77ba45ce9a23da637d64c3edc0a5a1d9d82fe64.zip",
+      "relative_path": "csup_ak_CSUP1_2609_01_d9dd1145d3f3cf3fb5145b8db77ba45ce9a23da637d64c3edc0a5a1d9d82fe64.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "d9dd1145d3f3cf3fb5145b8db77ba45ce9a23da637d64c3edc0a5a1d9d82fe64",
+      "size_bytes": 64363398,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "EC_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "ec",
+      "filename": "csup_ec_CSUP1_2609_01_f36d9405f73ed5ef716fd5b8a17ad7ba29dadad2a286838d10415bb1597e7089.zip",
+      "relative_path": "csup_ec_CSUP1_2609_01_f36d9405f73ed5ef716fd5b8a17ad7ba29dadad2a286838d10415bb1597e7089.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "f36d9405f73ed5ef716fd5b8a17ad7ba29dadad2a286838d10415bb1597e7089",
+      "size_bytes": 85585939,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "NC_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "nc",
+      "filename": "csup_nc_CSUP1_2609_01_21309774ea29f569772fad51b0eab2ca488581773840d5966addca2a9b0ab738.zip",
+      "relative_path": "csup_nc_CSUP1_2609_01_21309774ea29f569772fad51b0eab2ca488581773840d5966addca2a9b0ab738.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "21309774ea29f569772fad51b0eab2ca488581773840d5966addca2a9b0ab738",
+      "size_bytes": 82911598,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "NE_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "ne",
+      "filename": "csup_ne_CSUP1_2609_01_3b2a9ee8ec36c30a46f3c02c71c891b37cfffd51aa293d29212f318da0155ac8.zip",
+      "relative_path": "csup_ne_CSUP1_2609_01_3b2a9ee8ec36c30a46f3c02c71c891b37cfffd51aa293d29212f318da0155ac8.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "3b2a9ee8ec36c30a46f3c02c71c891b37cfffd51aa293d29212f318da0155ac8",
+      "size_bytes": 88366654,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "NW_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "nw",
+      "filename": "csup_nw_CSUP1_2609_01_b21eae9ac447de896fe6b19e13cfe6f8b5820d2dd3586ab55b00ef73d1bbd2d3.zip",
+      "relative_path": "csup_nw_CSUP1_2609_01_b21eae9ac447de896fe6b19e13cfe6f8b5820d2dd3586ab55b00ef73d1bbd2d3.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "b21eae9ac447de896fe6b19e13cfe6f8b5820d2dd3586ab55b00ef73d1bbd2d3",
+      "size_bytes": 64179286,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "PAC_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "pac",
+      "filename": "csup_pac_CSUP1_2609_01_462e38cfb7137b696232032f9e5a144ad83edc3febd98296e62cec1704614443.zip",
+      "relative_path": "csup_pac_CSUP1_2609_01_462e38cfb7137b696232032f9e5a144ad83edc3febd98296e62cec1704614443.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "462e38cfb7137b696232032f9e5a144ad83edc3febd98296e62cec1704614443",
+      "size_bytes": 8812312,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "SC_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "sc",
+      "filename": "csup_sc_CSUP1_2609_01_6bb5aed0570154cd69a94a6ec3ce712c680a14c3e39ee0fa46fe464f7186a4ce.zip",
+      "relative_path": "csup_sc_CSUP1_2609_01_6bb5aed0570154cd69a94a6ec3ce712c680a14c3e39ee0fa46fe464f7186a4ce.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "6bb5aed0570154cd69a94a6ec3ce712c680a14c3e39ee0fa46fe464f7186a4ce",
+      "size_bytes": 89000711,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "SE_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "se",
+      "filename": "csup_se_CSUP1_2609_01_3f8e89bbf6bddc99da52200440bd0c4932711d3e0a200348ffd049e18b61d24b.zip",
+      "relative_path": "csup_se_CSUP1_2609_01_3f8e89bbf6bddc99da52200440bd0c4932711d3e0a200348ffd049e18b61d24b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "3f8e89bbf6bddc99da52200440bd0c4932711d3e0a200348ffd049e18b61d24b",
+      "size_bytes": 87557868,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "SW_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "sw",
+      "filename": "csup_sw_CSUP1_2609_01_72df22433edb8a7d6cc4e65dd1629b6dc0c921390666448624b570e21e89726e.zip",
+      "relative_path": "csup_sw_CSUP1_2609_01_72df22433edb8a7d6cc4e65dd1629b6dc0c921390666448624b570e21e89726e.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "72df22433edb8a7d6cc4e65dd1629b6dc0c921390666448624b570e21e89726e",
+      "size_bytes": 98232544,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "AK_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "ak",
+      "filename": "enr_h_ak_detail_ENH1_2609_01_2f4548a25bb1417ea4074c238f525a5ac76953b42749e0802c1edf38f6d8758b.zip",
+      "relative_path": "enr_h_ak_detail_ENH1_2609_01_2f4548a25bb1417ea4074c238f525a5ac76953b42749e0802c1edf38f6d8758b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "2f4548a25bb1417ea4074c238f525a5ac76953b42749e0802c1edf38f6d8758b",
+      "size_bytes": 32502238,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 14595,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "ak",
+      "filename": "enr_h_ak_ENH1_2609_01_2984c6c5e17498099f156cf61179c2b282fde90ef52382a7ffc18125a4efe903.zip",
+      "relative_path": "enr_h_ak_ENH1_2609_01_2984c6c5e17498099f156cf61179c2b282fde90ef52382a7ffc18125a4efe903.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "2984c6c5e17498099f156cf61179c2b282fde90ef52382a7ffc18125a4efe903",
+      "size_bytes": 20107422,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 4702,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "ec",
+      "filename": "enr_h_ec_detail_ENH1_2609_01_aa1b8d35492d16daadb77635bb145980ebdc789187b856e1ec4f3eaddc90f6e9.zip",
+      "relative_path": "enr_h_ec_detail_ENH1_2609_01_aa1b8d35492d16daadb77635bb145980ebdc789187b856e1ec4f3eaddc90f6e9.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "aa1b8d35492d16daadb77635bb145980ebdc789187b856e1ec4f3eaddc90f6e9",
+      "size_bytes": 11304129,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 2234,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "ec",
+      "filename": "enr_h_ec_ENH1_2609_01_10551d92670581c2803fb0c3adadb9ec8df86c1fd281a6b080c4f69c183776df.zip",
+      "relative_path": "enr_h_ec_ENH1_2609_01_10551d92670581c2803fb0c3adadb9ec8df86c1fd281a6b080c4f69c183776df.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "10551d92670581c2803fb0c3adadb9ec8df86c1fd281a6b080c4f69c183776df",
+      "size_bytes": 9955654,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 766,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "nc",
+      "filename": "enr_h_nc_detail_ENH1_2609_01_d89e80d35be836849661f5b15a702a4a80bbe5c36676de52d09b066780ff19fd.zip",
+      "relative_path": "enr_h_nc_detail_ENH1_2609_01_d89e80d35be836849661f5b15a702a4a80bbe5c36676de52d09b066780ff19fd.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "d89e80d35be836849661f5b15a702a4a80bbe5c36676de52d09b066780ff19fd",
+      "size_bytes": 9560885,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 2284,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "nc",
+      "filename": "enr_h_nc_ENH1_2609_01_6b7d36ba0b105006773f4ee019367467046f7b70e88d34c7197affd71ed2204d.zip",
+      "relative_path": "enr_h_nc_ENH1_2609_01_6b7d36ba0b105006773f4ee019367467046f7b70e88d34c7197affd71ed2204d.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "6b7d36ba0b105006773f4ee019367467046f7b70e88d34c7197affd71ed2204d",
+      "size_bytes": 8532494,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 788,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "ne",
+      "filename": "enr_h_ne_detail_ENH1_2609_01_c3bf05f6b1a0cdf689ce23b67935f51f26508b2128798c70d8afe2aa37d52e6b.zip",
+      "relative_path": "enr_h_ne_detail_ENH1_2609_01_c3bf05f6b1a0cdf689ce23b67935f51f26508b2128798c70d8afe2aa37d52e6b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "c3bf05f6b1a0cdf689ce23b67935f51f26508b2128798c70d8afe2aa37d52e6b",
+      "size_bytes": 11168551,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 1989,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "ne",
+      "filename": "enr_h_ne_ENH1_2609_01_f4a037fc664a4f26d5c4ea9d24aa521e34dfeaba27565fb90654f253b559a179.zip",
+      "relative_path": "enr_h_ne_ENH1_2609_01_f4a037fc664a4f26d5c4ea9d24aa521e34dfeaba27565fb90654f253b559a179.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "f4a037fc664a4f26d5c4ea9d24aa521e34dfeaba27565fb90654f253b559a179",
+      "size_bytes": 9021764,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 657,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "nw",
+      "filename": "enr_h_nw_detail_ENH1_2609_01_74838ca8e5923aad3bd53e06ec7ecd933af26bfa5b52312881bab1b0795f1e8e.zip",
+      "relative_path": "enr_h_nw_detail_ENH1_2609_01_74838ca8e5923aad3bd53e06ec7ecd933af26bfa5b52312881bab1b0795f1e8e.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "74838ca8e5923aad3bd53e06ec7ecd933af26bfa5b52312881bab1b0795f1e8e",
+      "size_bytes": 11602515,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 2606,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "nw",
+      "filename": "enr_h_nw_ENH1_2609_01_4cca03f9c1db592ecdeda26c272d511d57a96f41916f8057e2d8d8eb3d34b612.zip",
+      "relative_path": "enr_h_nw_ENH1_2609_01_4cca03f9c1db592ecdeda26c272d511d57a96f41916f8057e2d8d8eb3d34b612.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "4cca03f9c1db592ecdeda26c272d511d57a96f41916f8057e2d8d8eb3d34b612",
+      "size_bytes": 9253471,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 840,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "pac",
+      "filename": "enr_h_pac_detail_ENH1_2609_01_bba4b42539208bd9511f9cd152bb20e4544e06053ba3feb6fd48cb4fd408d1a4.zip",
+      "relative_path": "enr_h_pac_detail_ENH1_2609_01_bba4b42539208bd9511f9cd152bb20e4544e06053ba3feb6fd48cb4fd408d1a4.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "bba4b42539208bd9511f9cd152bb20e4544e06053ba3feb6fd48cb4fd408d1a4",
+      "size_bytes": 1306256,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 551,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "pac",
+      "filename": "enr_h_pac_ENH1_2609_01_aeaccc3626a32393f5ed8dcb4008c7cdf487939a50a0b3a70410967d41dfa884.zip",
+      "relative_path": "enr_h_pac_ENH1_2609_01_aeaccc3626a32393f5ed8dcb4008c7cdf487939a50a0b3a70410967d41dfa884.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "aeaccc3626a32393f5ed8dcb4008c7cdf487939a50a0b3a70410967d41dfa884",
+      "size_bytes": 814477,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 190,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "sc",
+      "filename": "enr_h_sc_detail_ENH1_2609_01_4ca95dc70c578a3099414cf0dc5dc19c5e0f89482988fbf90ff2f077e3ee9d0f.zip",
+      "relative_path": "enr_h_sc_detail_ENH1_2609_01_4ca95dc70c578a3099414cf0dc5dc19c5e0f89482988fbf90ff2f077e3ee9d0f.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "4ca95dc70c578a3099414cf0dc5dc19c5e0f89482988fbf90ff2f077e3ee9d0f",
+      "size_bytes": 12468361,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 2212,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "sc",
+      "filename": "enr_h_sc_ENH1_2609_01_b5b8ff43a84d9c14791ab1dd9a7296b2690c85525b7d3f43f74b5a9cd3758dd1.zip",
+      "relative_path": "enr_h_sc_ENH1_2609_01_b5b8ff43a84d9c14791ab1dd9a7296b2690c85525b7d3f43f74b5a9cd3758dd1.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "b5b8ff43a84d9c14791ab1dd9a7296b2690c85525b7d3f43f74b5a9cd3758dd1",
+      "size_bytes": 10817790,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 758,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "se",
+      "filename": "enr_h_se_detail_ENH1_2609_01_5e8be4aae2d778001906aeca9f4e880d218912a1d86c21ea16de38e489df71ea.zip",
+      "relative_path": "enr_h_se_detail_ENH1_2609_01_5e8be4aae2d778001906aeca9f4e880d218912a1d86c21ea16de38e489df71ea.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "5e8be4aae2d778001906aeca9f4e880d218912a1d86c21ea16de38e489df71ea",
+      "size_bytes": 17597267,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 2638,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "se",
+      "filename": "enr_h_se_ENH1_2609_01_a2a08a429bd9b613acc56c2fa74dc849c5e33a5ab54d99d3d2825fc21f6fe22d.zip",
+      "relative_path": "enr_h_se_ENH1_2609_01_a2a08a429bd9b613acc56c2fa74dc849c5e33a5ab54d99d3d2825fc21f6fe22d.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "a2a08a429bd9b613acc56c2fa74dc849c5e33a5ab54d99d3d2825fc21f6fe22d",
+      "size_bytes": 14454403,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 885,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "sw",
+      "filename": "enr_h_sw_detail_ENH1_2609_01_bee2d1f6e99a0dab48e5174c771d709b6e0c9f6d49d8ae5f2d214e30ce455613.zip",
+      "relative_path": "enr_h_sw_detail_ENH1_2609_01_bee2d1f6e99a0dab48e5174c771d709b6e0c9f6d49d8ae5f2d214e30ce455613.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "bee2d1f6e99a0dab48e5174c771d709b6e0c9f6d49d8ae5f2d214e30ce455613",
+      "size_bytes": 17621795,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 4220,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "sw",
+      "filename": "enr_h_sw_ENH1_2609_01_4f2b90d937529a450b6352bf803b1cc23003707a4066a037359be7890640a489.zip",
+      "relative_path": "enr_h_sw_ENH1_2609_01_4f2b90d937529a450b6352bf803b1cc23003707a4066a037359be7890640a489.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "4f2b90d937529a450b6352bf803b1cc23003707a4066a037359be7890640a489",
+      "size_bytes": 14171660,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 1382,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "wide",
+      "filename": "enr_h_wide_ENH1_2609_01_1551c9d740cbf2f6cfb364f0842f6560c78c8a5246eba0a1bd43dd15a5402b21.zip",
+      "relative_path": "enr_h_wide_ENH1_2609_01_1551c9d740cbf2f6cfb364f0842f6560c78c8a5246eba0a1bd43dd15a5402b21.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "1551c9d740cbf2f6cfb364f0842f6560c78c8a5246eba0a1bd43dd15a5402b21",
+      "size_bytes": 23034200,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "ENH1",
+        "max_source_zoom": 7,
+        "tile_count": 1431,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "ak",
+      "filename": "enr_l_ak_detail_ENL1_2609_01_c14b377be61fee5b998c63c2d77a83565f8023bc66a639d3dc9cea0de18f8a43.zip",
+      "relative_path": "enr_l_ak_detail_ENL1_2609_01_c14b377be61fee5b998c63c2d77a83565f8023bc66a639d3dc9cea0de18f8a43.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "c14b377be61fee5b998c63c2d77a83565f8023bc66a639d3dc9cea0de18f8a43",
+      "size_bytes": 76637646,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 33022,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "ak",
+      "filename": "enr_l_ak_ENL1_2609_01_d6c8128c622f905be7a988d6844efa2e8cf265afbd991ec85f1210b7d0e8e04c.zip",
+      "relative_path": "enr_l_ak_ENL1_2609_01_d6c8128c622f905be7a988d6844efa2e8cf265afbd991ec85f1210b7d0e8e04c.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "d6c8128c622f905be7a988d6844efa2e8cf265afbd991ec85f1210b7d0e8e04c",
+      "size_bytes": 53586400,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 11131,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "ec",
+      "filename": "enr_l_ec_detail_ENL1_2609_01_7743a569e476e24fca67bba39c74d2bbc936e8b917a584559b440cfbd7ddbe3a.zip",
+      "relative_path": "enr_l_ec_detail_ENL1_2609_01_7743a569e476e24fca67bba39c74d2bbc936e8b917a584559b440cfbd7ddbe3a.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "7743a569e476e24fca67bba39c74d2bbc936e8b917a584559b440cfbd7ddbe3a",
+      "size_bytes": 32381345,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 7512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "ec",
+      "filename": "enr_l_ec_ENL1_2609_01_929facdbd462b469f582537183cdfdce28f57a0b6e9b0b1214e0fa58d4624e98.zip",
+      "relative_path": "enr_l_ec_ENL1_2609_01_929facdbd462b469f582537183cdfdce28f57a0b6e9b0b1214e0fa58d4624e98.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "929facdbd462b469f582537183cdfdce28f57a0b6e9b0b1214e0fa58d4624e98",
+      "size_bytes": 29800026,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2598,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "nc",
+      "filename": "enr_l_nc_detail_ENL1_2609_01_664909695bf59b83b49ced1008a3ff1cc2ff4e135eab533aba452b6a496ab76b.zip",
+      "relative_path": "enr_l_nc_detail_ENL1_2609_01_664909695bf59b83b49ced1008a3ff1cc2ff4e135eab533aba452b6a496ab76b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "664909695bf59b83b49ced1008a3ff1cc2ff4e135eab533aba452b6a496ab76b",
+      "size_bytes": 32276847,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 8300,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "nc",
+      "filename": "enr_l_nc_ENL1_2609_01_6dba57804c253643768cc2332cb4698377e52151409a5aaa78e043be8d351704.zip",
+      "relative_path": "enr_l_nc_ENL1_2609_01_6dba57804c253643768cc2332cb4698377e52151409a5aaa78e043be8d351704.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "6dba57804c253643768cc2332cb4698377e52151409a5aaa78e043be8d351704",
+      "size_bytes": 30880323,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2829,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "ne",
+      "filename": "enr_l_ne_detail_ENL1_2609_01_9449b4309dd6b5d654ad192e16aad9277eb59577f60d6231d90144e5aa56a1ad.zip",
+      "relative_path": "enr_l_ne_detail_ENL1_2609_01_9449b4309dd6b5d654ad192e16aad9277eb59577f60d6231d90144e5aa56a1ad.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "9449b4309dd6b5d654ad192e16aad9277eb59577f60d6231d90144e5aa56a1ad",
+      "size_bytes": 25165361,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 5280,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "ne",
+      "filename": "enr_l_ne_ENL1_2609_01_777013bc44fe2bbc98e8d4d2c9f7202cb3332fb5714bb80a6205b6ac6dec91ac.zip",
+      "relative_path": "enr_l_ne_ENL1_2609_01_777013bc44fe2bbc98e8d4d2c9f7202cb3332fb5714bb80a6205b6ac6dec91ac.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "777013bc44fe2bbc98e8d4d2c9f7202cb3332fb5714bb80a6205b6ac6dec91ac",
+      "size_bytes": 21326130,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 1807,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "nw",
+      "filename": "enr_l_nw_detail_ENL1_2609_01_b5126a6f9f4061c91509724a3de5de639df55fcd9ccdaa398aa9e3f416c0a767.zip",
+      "relative_path": "enr_l_nw_detail_ENL1_2609_01_b5126a6f9f4061c91509724a3de5de639df55fcd9ccdaa398aa9e3f416c0a767.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "b5126a6f9f4061c91509724a3de5de639df55fcd9ccdaa398aa9e3f416c0a767",
+      "size_bytes": 34685201,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 9530,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "nw",
+      "filename": "enr_l_nw_ENL1_2609_01_e929ca14e6b933969f119b370d7c022d09d6bfa24e9972f8a63d20e5f05c23e2.zip",
+      "relative_path": "enr_l_nw_ENL1_2609_01_e929ca14e6b933969f119b370d7c022d09d6bfa24e9972f8a63d20e5f05c23e2.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "e929ca14e6b933969f119b370d7c022d09d6bfa24e9972f8a63d20e5f05c23e2",
+      "size_bytes": 31617270,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 3197,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "pac",
+      "filename": "enr_l_pac_detail_ENL1_2609_01_b95b06b642ac088f52a100971d1f01ed819436013f399d90ab3b8a04505aec87.zip",
+      "relative_path": "enr_l_pac_detail_ENL1_2609_01_b95b06b642ac088f52a100971d1f01ed819436013f399d90ab3b8a04505aec87.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "b95b06b642ac088f52a100971d1f01ed819436013f399d90ab3b8a04505aec87",
+      "size_bytes": 4888029,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 1716,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "pac",
+      "filename": "enr_l_pac_ENL1_2609_01_de3200c7b7bf5d7fd27f72078959131af66dc276a8a3e89db34034ae80aed7ac.zip",
+      "relative_path": "enr_l_pac_ENL1_2609_01_de3200c7b7bf5d7fd27f72078959131af66dc276a8a3e89db34034ae80aed7ac.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "de3200c7b7bf5d7fd27f72078959131af66dc276a8a3e89db34034ae80aed7ac",
+      "size_bytes": 4306166,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 605,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "sc",
+      "filename": "enr_l_sc_detail_ENL1_2609_01_f633399f16aecc63e65f85ac74e891df65ce8f95e581776a9a426e3819518900.zip",
+      "relative_path": "enr_l_sc_detail_ENL1_2609_01_f633399f16aecc63e65f85ac74e891df65ce8f95e581776a9a426e3819518900.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "f633399f16aecc63e65f85ac74e891df65ce8f95e581776a9a426e3819518900",
+      "size_bytes": 32191212,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 7203,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "sc",
+      "filename": "enr_l_sc_ENL1_2609_01_a2e2de6078b3a673a426ec4da5415a09b6fd2dcc180c15b2d43d1825b983c8ab.zip",
+      "relative_path": "enr_l_sc_ENL1_2609_01_a2e2de6078b3a673a426ec4da5415a09b6fd2dcc180c15b2d43d1825b983c8ab.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "a2e2de6078b3a673a426ec4da5415a09b6fd2dcc180c15b2d43d1825b983c8ab",
+      "size_bytes": 29513968,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2502,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "se",
+      "filename": "enr_l_se_detail_ENL1_2609_01_5a5ab99a2d56102a09a0a580066688c4bc02a46b9279d90925d694f818af52e5.zip",
+      "relative_path": "enr_l_se_detail_ENL1_2609_01_5a5ab99a2d56102a09a0a580066688c4bc02a46b9279d90925d694f818af52e5.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "5a5ab99a2d56102a09a0a580066688c4bc02a46b9279d90925d694f818af52e5",
+      "size_bytes": 32359049,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 5116,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "se",
+      "filename": "enr_l_se_ENL1_2609_01_4b86cd99e3b2024750a9a61d37661c16d7b22f130d95a4eb6dbaac2d2d40fb43.zip",
+      "relative_path": "enr_l_se_ENL1_2609_01_4b86cd99e3b2024750a9a61d37661c16d7b22f130d95a4eb6dbaac2d2d40fb43.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "4b86cd99e3b2024750a9a61d37661c16d7b22f130d95a4eb6dbaac2d2d40fb43",
+      "size_bytes": 29076223,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 1817,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "sw",
+      "filename": "enr_l_sw_detail_ENL1_2609_01_a42f71c099f14a55fa45aa6836ca7e3d241dde5bd90c6d8f8fd7d68667206d2a.zip",
+      "relative_path": "enr_l_sw_detail_ENL1_2609_01_a42f71c099f14a55fa45aa6836ca7e3d241dde5bd90c6d8f8fd7d68667206d2a.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "a42f71c099f14a55fa45aa6836ca7e3d241dde5bd90c6d8f8fd7d68667206d2a",
+      "size_bytes": 31866649,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 7008,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "sw",
+      "filename": "enr_l_sw_ENL1_2609_01_771688baedd1e9368c80b7ea30b24919a4f1ad53368f9ade7593a00d7b2e21f9.zip",
+      "relative_path": "enr_l_sw_ENL1_2609_01_771688baedd1e9368c80b7ea30b24919a4f1ad53368f9ade7593a00d7b2e21f9.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "771688baedd1e9368c80b7ea30b24919a4f1ad53368f9ade7593a00d7b2e21f9",
+      "size_bytes": 28931924,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2446,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "wide",
+      "filename": "enr_l_wide_ENL1_2609_01_f82c215f05d926436d140bbff28128632a9972a0449e05bcbea1f25328953476.zip",
+      "relative_path": "enr_l_wide_ENL1_2609_01_f82c215f05d926436d140bbff28128632a9972a0449e05bcbea1f25328953476.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "f82c215f05d926436d140bbff28128632a9972a0449e05bcbea1f25328953476",
+      "size_bytes": 17817517,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "ENL1",
+        "max_source_zoom": 7,
+        "tile_count": 576,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "ak",
+      "filename": "sec_ak_detail_SEC1_2609_01_d5c6a5aba9b5d38112cd50c9f9b6da64320ae275f31292711e5bb27e82acc391.zip",
+      "relative_path": "sec_ak_detail_SEC1_2609_01_d5c6a5aba9b5d38112cd50c9f9b6da64320ae275f31292711e5bb27e82acc391.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "d5c6a5aba9b5d38112cd50c9f9b6da64320ae275f31292711e5bb27e82acc391",
+      "size_bytes": 289885044,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 46719,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "ak",
+      "filename": "sec_ak_SEC1_2609_01_bf700ff6e576c82a8e86c8bf427e6c5b4a59fa3ae05c32dd0b8ddbefb76ccccf.zip",
+      "relative_path": "sec_ak_SEC1_2609_01_bf700ff6e576c82a8e86c8bf427e6c5b4a59fa3ae05c32dd0b8ddbefb76ccccf.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "bf700ff6e576c82a8e86c8bf427e6c5b4a59fa3ae05c32dd0b8ddbefb76ccccf",
+      "size_bytes": 240278361,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 15852,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "ec",
+      "filename": "sec_ec_detail_SEC1_2609_01_0c3d6709121d828db4dfe951192226847ebadec6dc4d3fc307837e423bdce96c.zip",
+      "relative_path": "sec_ec_detail_SEC1_2609_01_0c3d6709121d828db4dfe951192226847ebadec6dc4d3fc307837e423bdce96c.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "0c3d6709121d828db4dfe951192226847ebadec6dc4d3fc307837e423bdce96c",
+      "size_bytes": 114797386,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 7811,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "ec",
+      "filename": "sec_ec_SEC1_2609_01_dec905b603f5b60b263ca74c536fb039a76a99402838190841590a1faf0c9ce9.zip",
+      "relative_path": "sec_ec_SEC1_2609_01_dec905b603f5b60b263ca74c536fb039a76a99402838190841590a1faf0c9ce9.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "dec905b603f5b60b263ca74c536fb039a76a99402838190841590a1faf0c9ce9",
+      "size_bytes": 104374927,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2693,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "nc",
+      "filename": "sec_nc_detail_SEC1_2609_01_98e2175a0df92fc90241a1c2c1341dea8c075464e4ddf1e6f30b8fb0ae80c475.zip",
+      "relative_path": "sec_nc_detail_SEC1_2609_01_98e2175a0df92fc90241a1c2c1341dea8c075464e4ddf1e6f30b8fb0ae80c475.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "98e2175a0df92fc90241a1c2c1341dea8c075464e4ddf1e6f30b8fb0ae80c475",
+      "size_bytes": 107164022,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 8245,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "nc",
+      "filename": "sec_nc_SEC1_2609_01_ea3b634ed39da2f06b842d9d74a838121ab79db4d9d194f9f816a1c568a555d0.zip",
+      "relative_path": "sec_nc_SEC1_2609_01_ea3b634ed39da2f06b842d9d74a838121ab79db4d9d194f9f816a1c568a555d0.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "ea3b634ed39da2f06b842d9d74a838121ab79db4d9d194f9f816a1c568a555d0",
+      "size_bytes": 96384749,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2812,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "ne",
+      "filename": "sec_ne_detail_SEC1_2609_01_af3128582422fea2e77238eddceb2495bdbcc5f5c7a4131c43467ec1f9e86529.zip",
+      "relative_path": "sec_ne_detail_SEC1_2609_01_af3128582422fea2e77238eddceb2495bdbcc5f5c7a4131c43467ec1f9e86529.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "af3128582422fea2e77238eddceb2495bdbcc5f5c7a4131c43467ec1f9e86529",
+      "size_bytes": 90626911,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 6960,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "ne",
+      "filename": "sec_ne_SEC1_2609_01_66246e9eb2aad0dab5e2ee9ccea44ad91ff18acfbe2795f9d7f8bb10bf5b9068.zip",
+      "relative_path": "sec_ne_SEC1_2609_01_66246e9eb2aad0dab5e2ee9ccea44ad91ff18acfbe2795f9d7f8bb10bf5b9068.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "66246e9eb2aad0dab5e2ee9ccea44ad91ff18acfbe2795f9d7f8bb10bf5b9068",
+      "size_bytes": 78686758,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2381,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "nw",
+      "filename": "sec_nw_detail_SEC1_2609_01_1d6fb0a13ee81656f5c2fe9be905292a150b773d193d04e13ac6d5ebcf95630b.zip",
+      "relative_path": "sec_nw_detail_SEC1_2609_01_1d6fb0a13ee81656f5c2fe9be905292a150b773d193d04e13ac6d5ebcf95630b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "1d6fb0a13ee81656f5c2fe9be905292a150b773d193d04e13ac6d5ebcf95630b",
+      "size_bytes": 135507668,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 9271,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "nw",
+      "filename": "sec_nw_SEC1_2609_01_558dcc378c2a5e6958318753503d2beedd2d03c0d0191977a429515f1e074178.zip",
+      "relative_path": "sec_nw_SEC1_2609_01_558dcc378c2a5e6958318753503d2beedd2d03c0d0191977a429515f1e074178.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "558dcc378c2a5e6958318753503d2beedd2d03c0d0191977a429515f1e074178",
+      "size_bytes": 115025010,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 3136,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "pac",
+      "filename": "sec_pac_detail_SEC1_2609_01_d57cc7c6b271c1abbd5af39ff163fb88cd121a34eb434929a7514e972b71aea5.zip",
+      "relative_path": "sec_pac_detail_SEC1_2609_01_d57cc7c6b271c1abbd5af39ff163fb88cd121a34eb434929a7514e972b71aea5.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "d57cc7c6b271c1abbd5af39ff163fb88cd121a34eb434929a7514e972b71aea5",
+      "size_bytes": 5609029,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 1060,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "pac",
+      "filename": "sec_pac_SEC1_2609_01_7a46999fa15487cb47a1e8195cde87ae3426d18fa70acee973cbdc0c83e9a06a.zip",
+      "relative_path": "sec_pac_SEC1_2609_01_7a46999fa15487cb47a1e8195cde87ae3426d18fa70acee973cbdc0c83e9a06a.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "7a46999fa15487cb47a1e8195cde87ae3426d18fa70acee973cbdc0c83e9a06a",
+      "size_bytes": 4280734,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 437,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "sc",
+      "filename": "sec_sc_detail_SEC1_2609_01_1ace213a902eee155990e43392ec4341715dba990c17bb7b960554ec57e41cc9.zip",
+      "relative_path": "sec_sc_detail_SEC1_2609_01_1ace213a902eee155990e43392ec4341715dba990c17bb7b960554ec57e41cc9.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "1ace213a902eee155990e43392ec4341715dba990c17bb7b960554ec57e41cc9",
+      "size_bytes": 117432911,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 7820,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "sc",
+      "filename": "sec_sc_SEC1_2609_01_a20434b8fd03c5a917909c78aa9d8b3901f23ff5a326344e8c2c3810b163f4e7.zip",
+      "relative_path": "sec_sc_SEC1_2609_01_a20434b8fd03c5a917909c78aa9d8b3901f23ff5a326344e8c2c3810b163f4e7.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "a20434b8fd03c5a917909c78aa9d8b3901f23ff5a326344e8c2c3810b163f4e7",
+      "size_bytes": 101947848,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2706,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "se",
+      "filename": "sec_se_detail_SEC1_2609_01_12cf66ae918eef11bf0023b56fac44a3b839e19612df70f4830efde59e29a10b.zip",
+      "relative_path": "sec_se_detail_SEC1_2609_01_12cf66ae918eef11bf0023b56fac44a3b839e19612df70f4830efde59e29a10b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "12cf66ae918eef11bf0023b56fac44a3b839e19612df70f4830efde59e29a10b",
+      "size_bytes": 114227583,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 13226,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "se",
+      "filename": "sec_se_SEC1_2609_01_c9ba23903ad6a974753d0e761faa006f2b90a82ad90ac45b07472629a6fe59b8.zip",
+      "relative_path": "sec_se_SEC1_2609_01_c9ba23903ad6a974753d0e761faa006f2b90a82ad90ac45b07472629a6fe59b8.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "c9ba23903ad6a974753d0e761faa006f2b90a82ad90ac45b07472629a6fe59b8",
+      "size_bytes": 97188934,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 4571,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "sw",
+      "filename": "sec_sw_detail_SEC1_2609_01_c6761734fac27c1e5487c517bc76ef0a7b4ea17c1ecf79396cea79d11d73d35a.zip",
+      "relative_path": "sec_sw_detail_SEC1_2609_01_c6761734fac27c1e5487c517bc76ef0a7b4ea17c1ecf79396cea79d11d73d35a.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "c6761734fac27c1e5487c517bc76ef0a7b4ea17c1ecf79396cea79d11d73d35a",
+      "size_bytes": 121610911,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 7794,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "sw",
+      "filename": "sec_sw_SEC1_2609_01_207de8780c6c4f9af2d1f0227e50006c587fdd5bc112385940f33baaf3d8b593.zip",
+      "relative_path": "sec_sw_SEC1_2609_01_207de8780c6c4f9af2d1f0227e50006c587fdd5bc112385940f33baaf3d8b593.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "207de8780c6c4f9af2d1f0227e50006c587fdd5bc112385940f33baaf3d8b593",
+      "size_bytes": 102738686,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2720,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "wide",
+      "filename": "sec_wide_SEC1_2609_01_297dacf8d4d3a7733a1ba034779cdd9c1d231454daed9ac6d8b9f2a60c3317d8.zip",
+      "relative_path": "sec_wide_SEC1_2609_01_297dacf8d4d3a7733a1ba034779cdd9c1d231454daed9ac6d8b9f2a60c3317d8.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "297dacf8d4d3a7733a1ba034779cdd9c1d231454daed9ac6d8b9f2a60c3317d8",
+      "size_bytes": 42541226,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "SEC1",
+        "max_source_zoom": 7,
+        "tile_count": 774,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "ak",
+      "filename": "tac_ak_detail_TAC1_2609_01_ea208f49dc8d8963d78cfd7af8545db378a1b8c35da7dad653a46f4c592cb48c.zip",
+      "relative_path": "tac_ak_detail_TAC1_2609_01_ea208f49dc8d8963d78cfd7af8545db378a1b8c35da7dad653a46f4c592cb48c.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "ea208f49dc8d8963d78cfd7af8545db378a1b8c35da7dad653a46f4c592cb48c",
+      "size_bytes": 18978494,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 2361,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "ak",
+      "filename": "tac_ak_TAC1_2609_01_af7e9047f5e30854c53313dc71741863ce4b21c5f4dd27da0ec9eed9f7dd8a47.zip",
+      "relative_path": "tac_ak_TAC1_2609_01_af7e9047f5e30854c53313dc71741863ce4b21c5f4dd27da0ec9eed9f7dd8a47.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "af7e9047f5e30854c53313dc71741863ce4b21c5f4dd27da0ec9eed9f7dd8a47",
+      "size_bytes": 18177494,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 877,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "ec",
+      "filename": "tac_ec_detail_TAC1_2609_01_2eaff71fef785acec1b05cdf19c2bdbca6e5cf79846909c3a624504f9366c7d7.zip",
+      "relative_path": "tac_ec_detail_TAC1_2609_01_2eaff71fef785acec1b05cdf19c2bdbca6e5cf79846909c3a624504f9366c7d7.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "2eaff71fef785acec1b05cdf19c2bdbca6e5cf79846909c3a624504f9366c7d7",
+      "size_bytes": 39037466,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 4244,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "EC_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "ec",
+      "filename": "tac_ec_TAC1_2609_01_b168673bf854e3528ac1209e6d6924d7a7b6e1d7c9738d572356dac2e72f4902.zip",
+      "relative_path": "tac_ec_TAC1_2609_01_b168673bf854e3528ac1209e6d6924d7a7b6e1d7c9738d572356dac2e72f4902.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "b168673bf854e3528ac1209e6d6924d7a7b6e1d7c9738d572356dac2e72f4902",
+      "size_bytes": 37192186,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 1712,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "nc",
+      "filename": "tac_nc_detail_TAC1_2609_01_0e0c7ae087eb9011004398d63ba1e863337f78f0133b73b3d309d8f3c731ecf7.zip",
+      "relative_path": "tac_nc_detail_TAC1_2609_01_0e0c7ae087eb9011004398d63ba1e863337f78f0133b73b3d309d8f3c731ecf7.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "0e0c7ae087eb9011004398d63ba1e863337f78f0133b73b3d309d8f3c731ecf7",
+      "size_bytes": 20924243,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 2201,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "nc",
+      "filename": "tac_nc_TAC1_2609_01_f6f4c948b02692ec55789423910c14f35155916f59a226b68630c1ab896615d7.zip",
+      "relative_path": "tac_nc_TAC1_2609_01_f6f4c948b02692ec55789423910c14f35155916f59a226b68630c1ab896615d7.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "f6f4c948b02692ec55789423910c14f35155916f59a226b68630c1ab896615d7",
+      "size_bytes": 20190452,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 903,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "ne",
+      "filename": "tac_ne_detail_TAC1_2609_01_99ef4026a877877d95b8943e7ee1490787ddd18e4a0b2dedbc58ffabb4676aeb.zip",
+      "relative_path": "tac_ne_detail_TAC1_2609_01_99ef4026a877877d95b8943e7ee1490787ddd18e4a0b2dedbc58ffabb4676aeb.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "99ef4026a877877d95b8943e7ee1490787ddd18e4a0b2dedbc58ffabb4676aeb",
+      "size_bytes": 35391035,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 3016,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NE_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "ne",
+      "filename": "tac_ne_TAC1_2609_01_240fcaaf438a4ce2e047d16b09d6b95b27c3e1718d9e35c509f5150bee680858.zip",
+      "relative_path": "tac_ne_TAC1_2609_01_240fcaaf438a4ce2e047d16b09d6b95b27c3e1718d9e35c509f5150bee680858.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "240fcaaf438a4ce2e047d16b09d6b95b27c3e1718d9e35c509f5150bee680858",
+      "size_bytes": 35372154,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 1155,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "nw",
+      "filename": "tac_nw_detail_TAC1_2609_01_50a1074541bff93ba39f027c5b1260e122a5ceaea5554a9a4325a7fe2c0955f6.zip",
+      "relative_path": "tac_nw_detail_TAC1_2609_01_50a1074541bff93ba39f027c5b1260e122a5ceaea5554a9a4325a7fe2c0955f6.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "50a1074541bff93ba39f027c5b1260e122a5ceaea5554a9a4325a7fe2c0955f6",
+      "size_bytes": 21486347,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 2406,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "nw",
+      "filename": "tac_nw_TAC1_2609_01_ab9231a781da49bc01cc4eceda64bc0bf6fdeb5987e2cd0001027d982326f9cd.zip",
+      "relative_path": "tac_nw_TAC1_2609_01_ab9231a781da49bc01cc4eceda64bc0bf6fdeb5987e2cd0001027d982326f9cd.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "ab9231a781da49bc01cc4eceda64bc0bf6fdeb5987e2cd0001027d982326f9cd",
+      "size_bytes": 21707166,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 1000,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "pac",
+      "filename": "tac_pac_detail_TAC1_2609_01_d9e1ffb016461e1643ea083e03aa986d0d5d222c25848f0aacb7863568169b5d.zip",
+      "relative_path": "tac_pac_detail_TAC1_2609_01_d9e1ffb016461e1643ea083e03aa986d0d5d222c25848f0aacb7863568169b5d.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "d9e1ffb016461e1643ea083e03aa986d0d5d222c25848f0aacb7863568169b5d",
+      "size_bytes": 1242370,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 149,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "PAC_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "pac",
+      "filename": "tac_pac_TAC1_2609_01_fcefba2a909eb55c918f9676cf6a13b4ad872d5688b5f622080f88246198d1a9.zip",
+      "relative_path": "tac_pac_TAC1_2609_01_fcefba2a909eb55c918f9676cf6a13b4ad872d5688b5f622080f88246198d1a9.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "fcefba2a909eb55c918f9676cf6a13b4ad872d5688b5f622080f88246198d1a9",
+      "size_bytes": 1010453,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 61,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "sc",
+      "filename": "tac_sc_detail_TAC1_2609_01_f52bb368e956a764f71e3f9b6435b382947a48124e7d6e58fb40a91c285fe295.zip",
+      "relative_path": "tac_sc_detail_TAC1_2609_01_f52bb368e956a764f71e3f9b6435b382947a48124e7d6e58fb40a91c285fe295.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "f52bb368e956a764f71e3f9b6435b382947a48124e7d6e58fb40a91c285fe295",
+      "size_bytes": 24152432,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 2648,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SC_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "sc",
+      "filename": "tac_sc_TAC1_2609_01_dc5a669711adfa36b3ff9f395ea8fea450f7717360b6228696e99ffda167e6ef.zip",
+      "relative_path": "tac_sc_TAC1_2609_01_dc5a669711adfa36b3ff9f395ea8fea450f7717360b6228696e99ffda167e6ef.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "dc5a669711adfa36b3ff9f395ea8fea450f7717360b6228696e99ffda167e6ef",
+      "size_bytes": 22595523,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 1037,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "se",
+      "filename": "tac_se_detail_TAC1_2609_01_aff4a80c74a1a3e1cd7a8ad109b5e954cec95a5b1cdbe813fdaae09c3d6b18f3.zip",
+      "relative_path": "tac_se_detail_TAC1_2609_01_aff4a80c74a1a3e1cd7a8ad109b5e954cec95a5b1cdbe813fdaae09c3d6b18f3.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "aff4a80c74a1a3e1cd7a8ad109b5e954cec95a5b1cdbe813fdaae09c3d6b18f3",
+      "size_bytes": 44849525,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 4872,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SE_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "se",
+      "filename": "tac_se_TAC1_2609_01_7c0f05ae1668f3be7d212be192b4b6b93b29d94e64ebb1997bfc4a5232a2e11a.zip",
+      "relative_path": "tac_se_TAC1_2609_01_7c0f05ae1668f3be7d212be192b4b6b93b29d94e64ebb1997bfc4a5232a2e11a.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "7c0f05ae1668f3be7d212be192b4b6b93b29d94e64ebb1997bfc4a5232a2e11a",
+      "size_bytes": 43135998,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 2030,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "sw",
+      "filename": "tac_sw_detail_TAC1_2609_01_3b8341486e1696deb89728b1984e021c50ae33cd3589393b389fce33e7fea1e7.zip",
+      "relative_path": "tac_sw_detail_TAC1_2609_01_3b8341486e1696deb89728b1984e021c50ae33cd3589393b389fce33e7fea1e7.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "3b8341486e1696deb89728b1984e021c50ae33cd3589393b389fce33e7fea1e7",
+      "size_bytes": 49457288,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 5043,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "sw",
+      "filename": "tac_sw_TAC1_2609_01_47cc3123a5b9fc2785b1b99e8916fa583c77ae853424a28a85bc6b16c8ab948d.zip",
+      "relative_path": "tac_sw_TAC1_2609_01_47cc3123a5b9fc2785b1b99e8916fa583c77ae853424a28a85bc6b16c8ab948d.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "47cc3123a5b9fc2785b1b99e8916fa583c77ae853424a28a85bc6b16c8ab948d",
+      "size_bytes": 63316274,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 2059,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "wide",
+      "filename": "tac_wide_TAC1_2609_01_69e7565abacaf770376285523bdd8e93c1c761788fea34a19a9a23a44ca0253d.zip",
+      "relative_path": "tac_wide_TAC1_2609_01_69e7565abacaf770376285523bdd8e93c1c761788fea34a19a9a23a44ca0253d.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "69e7565abacaf770376285523bdd8e93c1c761788fea34a19a9a23a44ca0253d",
+      "size_bytes": 8659378,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-29",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "TAC1",
+        "max_source_zoom": 7,
+        "tile_count": 259,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "AK_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "ak",
+      "filename": "tpp_ak_TPP1_2609_01_9a3a0827b5f7e8abec85fd454ac6a5b477238703bed2735884f1ef2965a46a9b.zip",
+      "relative_path": "tpp_ak_TPP1_2609_01_9a3a0827b5f7e8abec85fd454ac6a5b477238703bed2735884f1ef2965a46a9b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "9a3a0827b5f7e8abec85fd454ac6a5b477238703bed2735884f1ef2965a46a9b",
+      "size_bytes": 172758935,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "EC_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "ec",
+      "filename": "tpp_ec_TPP1_2609_01_c712b3b058efae3e9365d2bc4827c637d6204f5dad40afcea41fd915953d9966.zip",
+      "relative_path": "tpp_ec_TPP1_2609_01_c712b3b058efae3e9365d2bc4827c637d6204f5dad40afcea41fd915953d9966.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "c712b3b058efae3e9365d2bc4827c637d6204f5dad40afcea41fd915953d9966",
+      "size_bytes": 420925304,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "NC_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "nc",
+      "filename": "tpp_nc_TPP1_2609_01_6867cdccc5b02e9225e736d5300a30d851b65bcba01ad4f5424cb9d8a0a03dca.zip",
+      "relative_path": "tpp_nc_TPP1_2609_01_6867cdccc5b02e9225e736d5300a30d851b65bcba01ad4f5424cb9d8a0a03dca.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "6867cdccc5b02e9225e736d5300a30d851b65bcba01ad4f5424cb9d8a0a03dca",
+      "size_bytes": 381834968,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "NE_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "ne",
+      "filename": "tpp_ne_TPP1_2609_01_c0d0ccd8f598379b2d343df1b5e5355faaf901f8844819b50aff3b22276f686d.zip",
+      "relative_path": "tpp_ne_TPP1_2609_01_c0d0ccd8f598379b2d343df1b5e5355faaf901f8844819b50aff3b22276f686d.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "c0d0ccd8f598379b2d343df1b5e5355faaf901f8844819b50aff3b22276f686d",
+      "size_bytes": 456330123,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "NW_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "nw",
+      "filename": "tpp_nw_TPP1_2609_01_df4f1a00ff642d7ef0e53cd9cc546a6f2c3c8347aede19cbf245c0c8b8fcfc0c.zip",
+      "relative_path": "tpp_nw_TPP1_2609_01_df4f1a00ff642d7ef0e53cd9cc546a6f2c3c8347aede19cbf245c0c8b8fcfc0c.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "df4f1a00ff642d7ef0e53cd9cc546a6f2c3c8347aede19cbf245c0c8b8fcfc0c",
+      "size_bytes": 178314274,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "PAC_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "pac",
+      "filename": "tpp_pac_TPP1_2609_01_5015ad5db00e211226858621464701f53de48adc13cf617e4cca358a84398f38.zip",
+      "relative_path": "tpp_pac_TPP1_2609_01_5015ad5db00e211226858621464701f53de48adc13cf617e4cca358a84398f38.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "5015ad5db00e211226858621464701f53de48adc13cf617e4cca358a84398f38",
+      "size_bytes": 41421050,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "SC_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "sc",
+      "filename": "tpp_sc_TPP1_2609_01_7f9bb4d286162f38e68be6f52134419679c98bfa71f39d8c793a7ed040790c53.zip",
+      "relative_path": "tpp_sc_TPP1_2609_01_7f9bb4d286162f38e68be6f52134419679c98bfa71f39d8c793a7ed040790c53.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "7f9bb4d286162f38e68be6f52134419679c98bfa71f39d8c793a7ed040790c53",
+      "size_bytes": 633099199,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "SE_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "se",
+      "filename": "tpp_se_TPP1_2609_01_7635d71543b6282d15fe4af78640052f8992d83349b6b0d9d24cd4be94a507af.zip",
+      "relative_path": "tpp_se_TPP1_2609_01_7635d71543b6282d15fe4af78640052f8992d83349b6b0d9d24cd4be94a507af.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "7635d71543b6282d15fe4af78640052f8992d83349b6b0d9d24cd4be94a507af",
+      "size_bytes": 661025036,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "SW_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "sw",
+      "filename": "tpp_sw_TPP1_2609_01_75c747396d02cc6ebb6d2eb5bd13b015848e7446ec86763b1de9ec0e020c02f9.zip",
+      "relative_path": "tpp_sw_TPP1_2609_01_75c747396d02cc6ebb6d2eb5bd13b015848e7446ec86763b1de9ec0e020c02f9.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "75c747396d02cc6ebb6d2eb5bd13b015848e7446ec86763b1de9ec0e020c02f9",
+      "size_bytes": 445275039,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "world-basemap_WBM1",
+      "family_id": "world-basemap",
+      "contract_id": "WBM1",
+      "filename": "world-basemap_WBM1_12f414a41ff3ed356135105c510cad3e9c2d034741fd50c2ca6c147a2f9f12cd.zip",
+      "relative_path": "world-basemap_WBM1_12f414a41ff3ed356135105c510cad3e9c2d034741fd50c2ca6c147a2f9f12cd.zip",
+      "checksum_sha256": "12f414a41ff3ed356135105c510cad3e9c2d034741fd50c2ca6c147a2f9f12cd",
+      "size_bytes": 944110,
+      "published_at_utc": "2026-06-22T17:53:00Z",
+      "source_version": "11ce34cbdc95683b",
+      "source_fetched_at_utc": "2026-06-24T20:47:25Z",
+      "effective_date": "2026-06-22",
+      "expiration_date": null,
+      "metadata": {
+        "attribution": "Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.",
+        "contract_id": "WBM1",
+        "license": "public-domain",
+        "max_display_zoom": 8.0,
+        "max_source_zoom": 4,
+        "min_zoom": 0,
+        "source": "Natural Earth 110m land and admin-0 boundary lines",
+        "tile_format": "png",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.png",
+        "tile_size": 512
+      }
+    },
+    {
+      "id": "terrain-ak_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "ak",
+      "filename": "terrain-ak_TER2_51d7cffafe4fde7ff7dc02138f5e24d432809cf751318d4a76bbb26a61dfe55a.zip",
+      "relative_path": "terrain-ak_TER2_51d7cffafe4fde7ff7dc02138f5e24d432809cf751318d4a76bbb26a61dfe55a.zip",
+      "checksum_sha256": "51d7cffafe4fde7ff7dc02138f5e24d432809cf751318d4a76bbb26a61dfe55a",
+      "size_bytes": 153639584,
+      "published_at_utc": "2026-06-24T20:58:16Z",
+      "source_version": "fe0af35caab21da8",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-24",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-pac_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "pac",
+      "filename": "terrain-pac_TER2_89acd2ff684be5ac3867b4e37e708dd9eb86ef6663f7968a973c5ed1960bf0bf.zip",
+      "relative_path": "terrain-pac_TER2_89acd2ff684be5ac3867b4e37e708dd9eb86ef6663f7968a973c5ed1960bf0bf.zip",
+      "checksum_sha256": "89acd2ff684be5ac3867b4e37e708dd9eb86ef6663f7968a973c5ed1960bf0bf",
+      "size_bytes": 526554,
+      "published_at_utc": "2026-06-22T18:08:43Z",
+      "source_version": "3ccb1c595d8504ec",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-22",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-nw_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "nw",
+      "filename": "terrain-nw_TER2_4b912329d5b8f15a1ab6ddb2a63abd36930b185a2a02b68eeffae4d6d9606848.zip",
+      "relative_path": "terrain-nw_TER2_4b912329d5b8f15a1ab6ddb2a63abd36930b185a2a02b68eeffae4d6d9606848.zip",
+      "checksum_sha256": "4b912329d5b8f15a1ab6ddb2a63abd36930b185a2a02b68eeffae4d6d9606848",
+      "size_bytes": 54937217,
+      "published_at_utc": "2026-06-23T22:07:56Z",
+      "source_version": "10505204df43f73c",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-23",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-sw_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "sw",
+      "filename": "terrain-sw_TER2_afe046663b8522cebfa408cc6daeb78a973be6d766cfc061e0c512455ab74dec.zip",
+      "relative_path": "terrain-sw_TER2_afe046663b8522cebfa408cc6daeb78a973be6d766cfc061e0c512455ab74dec.zip",
+      "checksum_sha256": "afe046663b8522cebfa408cc6daeb78a973be6d766cfc061e0c512455ab74dec",
+      "size_bytes": 54921860,
+      "published_at_utc": "2026-06-23T23:10:00Z",
+      "source_version": "a500ab64bd1e66ac",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-23",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-nc_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "nc",
+      "filename": "terrain-nc_TER2_53ef0a427d87bc3151f4186a99bf83933022a8b74bc5942d5b8fba5271948240.zip",
+      "relative_path": "terrain-nc_TER2_53ef0a427d87bc3151f4186a99bf83933022a8b74bc5942d5b8fba5271948240.zip",
+      "checksum_sha256": "53ef0a427d87bc3151f4186a99bf83933022a8b74bc5942d5b8fba5271948240",
+      "size_bytes": 23301016,
+      "published_at_utc": "2026-06-23T23:51:05Z",
+      "source_version": "417fc72fe822d0ca",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-23",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-ec_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "ec",
+      "filename": "terrain-ec_TER2_35d494a30fc62ddbb11dff0ca67ccab97e8ff064eece2f64000ada3e97313472.zip",
+      "relative_path": "terrain-ec_TER2_35d494a30fc62ddbb11dff0ca67ccab97e8ff064eece2f64000ada3e97313472.zip",
+      "checksum_sha256": "35d494a30fc62ddbb11dff0ca67ccab97e8ff064eece2f64000ada3e97313472",
+      "size_bytes": 24198460,
+      "published_at_utc": "2026-06-24T00:02:52Z",
+      "source_version": "1e743d0db25183b1",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-24",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-sc_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "sc",
+      "filename": "terrain-sc_TER2_875ba4030642a4f71cef55d30a2f212cad99b7ab562522f8bf1c33ee7b5ddb87.zip",
+      "relative_path": "terrain-sc_TER2_875ba4030642a4f71cef55d30a2f212cad99b7ab562522f8bf1c33ee7b5ddb87.zip",
+      "checksum_sha256": "875ba4030642a4f71cef55d30a2f212cad99b7ab562522f8bf1c33ee7b5ddb87",
+      "size_bytes": 51495298,
+      "published_at_utc": "2026-06-24T00:22:24Z",
+      "source_version": "3593e8cd5e8d4c36",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-24",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-ne_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "ne",
+      "filename": "terrain-ne_TER2_6982ffeb0fc2f9c646534802e66b40b8db8bc3e5406aa95fb28a9997adbebfdc.zip",
+      "relative_path": "terrain-ne_TER2_6982ffeb0fc2f9c646534802e66b40b8db8bc3e5406aa95fb28a9997adbebfdc.zip",
+      "checksum_sha256": "6982ffeb0fc2f9c646534802e66b40b8db8bc3e5406aa95fb28a9997adbebfdc",
+      "size_bytes": 27806277,
+      "published_at_utc": "2026-06-24T00:31:47Z",
+      "source_version": "bfe1c07a32831236",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-24",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-se_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "se",
+      "filename": "terrain-se_TER2_4cab21c21a985ff49d23f90d5bd72ab2fb1b99e2e3ab973932dc1333357be452.zip",
+      "relative_path": "terrain-se_TER2_4cab21c21a985ff49d23f90d5bd72ab2fb1b99e2e3ab973932dc1333357be452.zip",
+      "checksum_sha256": "4cab21c21a985ff49d23f90d5bd72ab2fb1b99e2e3ab973932dc1333357be452",
+      "size_bytes": 13291480,
+      "published_at_utc": "2026-06-24T00:40:29Z",
+      "source_version": "56980aef843d67d8",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-24",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "terrain-wide_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "wide",
+      "filename": "terrain-wide_TER2_717d8701578306c8b579cd981120e851caf02c5076ca0f9de717890529f928d2.zip",
+      "relative_path": "terrain-wide_TER2_717d8701578306c8b579cd981120e851caf02c5076ca0f9de717890529f928d2.zip",
+      "checksum_sha256": "717d8701578306c8b579cd981120e851caf02c5076ca0f9de717890529f928d2",
+      "size_bytes": 44043399,
+      "published_at_utc": "2026-06-24T20:59:53Z",
+      "source_version": "ea9fa5cd1fc2036d",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-06-24",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 7,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-ak_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "ak",
+      "filename": "shaded-relief-ak_SHD1_6d6fc312e48ea150aa99bcbd048ab9c56ede83ceac2d5320b71287190b991afd.zip",
+      "relative_path": "shaded-relief-ak_SHD1_6d6fc312e48ea150aa99bcbd048ab9c56ede83ceac2d5320b71287190b991afd.zip",
+      "checksum_sha256": "6d6fc312e48ea150aa99bcbd048ab9c56ede83ceac2d5320b71287190b991afd",
+      "size_bytes": 39357143,
+      "published_at_utc": "2026-07-26T05:15:53Z",
+      "source_version": "fb3c43023417270d",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-pac_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "pac",
+      "filename": "shaded-relief-pac_SHD1_8e5ef88f3e6cd94d3f122571168d989cf088ed9aa3b47d6ea987264521e43f6e.zip",
+      "relative_path": "shaded-relief-pac_SHD1_8e5ef88f3e6cd94d3f122571168d989cf088ed9aa3b47d6ea987264521e43f6e.zip",
+      "checksum_sha256": "8e5ef88f3e6cd94d3f122571168d989cf088ed9aa3b47d6ea987264521e43f6e",
+      "size_bytes": 219918,
+      "published_at_utc": "2026-07-26T04:58:36Z",
+      "source_version": "23d0a39f80b748fd",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-nw_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "nw",
+      "filename": "shaded-relief-nw_SHD1_e72a92614c5f3b5ba1c9ccee93a154067ecb92b179883cee32430953a9d32160.zip",
+      "relative_path": "shaded-relief-nw_SHD1_e72a92614c5f3b5ba1c9ccee93a154067ecb92b179883cee32430953a9d32160.zip",
+      "checksum_sha256": "e72a92614c5f3b5ba1c9ccee93a154067ecb92b179883cee32430953a9d32160",
+      "size_bytes": 9874282,
+      "published_at_utc": "2026-07-26T05:08:08Z",
+      "source_version": "8edeacc8317282f0",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-sw_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "sw",
+      "filename": "shaded-relief-sw_SHD1_ad0976813b41f77f2df19592d6ab794417f4cd770c44e9fa3503546a25329769.zip",
+      "relative_path": "shaded-relief-sw_SHD1_ad0976813b41f77f2df19592d6ab794417f4cd770c44e9fa3503546a25329769.zip",
+      "checksum_sha256": "ad0976813b41f77f2df19592d6ab794417f4cd770c44e9fa3503546a25329769",
+      "size_bytes": 8847938,
+      "published_at_utc": "2026-07-26T05:00:18Z",
+      "source_version": "b19f0d3f4b9bdba3",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-nc_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "nc",
+      "filename": "shaded-relief-nc_SHD1_51b79066d5a1ac6c4a7fdcd3fb4fb543db025d8eb3ed4cd43baa9b80ba2bfca0.zip",
+      "relative_path": "shaded-relief-nc_SHD1_51b79066d5a1ac6c4a7fdcd3fb4fb543db025d8eb3ed4cd43baa9b80ba2bfca0.zip",
+      "checksum_sha256": "51b79066d5a1ac6c4a7fdcd3fb4fb543db025d8eb3ed4cd43baa9b80ba2bfca0",
+      "size_bytes": 5237126,
+      "published_at_utc": "2026-07-26T05:01:52Z",
+      "source_version": "3f2fa7d2ab3f7117",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-ec_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "ec",
+      "filename": "shaded-relief-ec_SHD1_7129d5834878a4c31912c52e704b6cf56b879d84a4519904a8633e82511cceb2.zip",
+      "relative_path": "shaded-relief-ec_SHD1_7129d5834878a4c31912c52e704b6cf56b879d84a4519904a8633e82511cceb2.zip",
+      "checksum_sha256": "7129d5834878a4c31912c52e704b6cf56b879d84a4519904a8633e82511cceb2",
+      "size_bytes": 8482170,
+      "published_at_utc": "2026-07-26T05:05:03Z",
+      "source_version": "83bbb1ad96bed94c",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-sc_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "sc",
+      "filename": "shaded-relief-sc_SHD1_1289d962b6a925aa68da5122e20856503dd643ce2a71a9c67e438612cee48757.zip",
+      "relative_path": "shaded-relief-sc_SHD1_1289d962b6a925aa68da5122e20856503dd643ce2a71a9c67e438612cee48757.zip",
+      "checksum_sha256": "1289d962b6a925aa68da5122e20856503dd643ce2a71a9c67e438612cee48757",
+      "size_bytes": 9728643,
+      "published_at_utc": "2026-07-26T05:03:47Z",
+      "source_version": "fdaa3e6a246e59b7",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-ne_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "ne",
+      "filename": "shaded-relief-ne_SHD1_088bd126321b52bfb258aa596d56a003998ab995fe7759ab6dce208a421439d4.zip",
+      "relative_path": "shaded-relief-ne_SHD1_088bd126321b52bfb258aa596d56a003998ab995fe7759ab6dce208a421439d4.zip",
+      "checksum_sha256": "088bd126321b52bfb258aa596d56a003998ab995fe7759ab6dce208a421439d4",
+      "size_bytes": 7088128,
+      "published_at_utc": "2026-07-26T05:06:53Z",
+      "source_version": "a09ae76df20f317e",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-se_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "se",
+      "filename": "shaded-relief-se_SHD1_94bd60a26f7bf2e5f8b0b7d1b10ab5b24c30fb84fb038a34d3b420c0c062985a.zip",
+      "relative_path": "shaded-relief-se_SHD1_94bd60a26f7bf2e5f8b0b7d1b10ab5b24c30fb84fb038a34d3b420c0c062985a.zip",
+      "checksum_sha256": "94bd60a26f7bf2e5f8b0b7d1b10ab5b24c30fb84fb038a34d3b420c0c062985a",
+      "size_bytes": 5463393,
+      "published_at_utc": "2026-07-26T05:06:01Z",
+      "source_version": "98ed874ecb26febf",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-wide_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "wide",
+      "filename": "shaded-relief-wide_SHD1_9dcd63457cccf8c8b07e1d96e652d9a8f657d06c07d7957292417adac3c04b86.zip",
+      "relative_path": "shaded-relief-wide_SHD1_9dcd63457cccf8c8b07e1d96e652d9a8f657d06c07d7957292417adac3c04b86.zip",
+      "checksum_sha256": "9dcd63457cccf8c8b07e1d96e652d9a8f657d06c07d7957292417adac3c04b86",
+      "size_bytes": 9847604,
+      "published_at_utc": "2026-07-26T05:17:04Z",
+      "source_version": "2c625be824188720",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2026-07-26",
+      "expiration_date": null,
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 7,
+        "min_zoom": 0,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NAV_DB_NAV23_2609_01",
+      "family_id": "nav-db",
+      "contract_id": "NAV23",
+      "filename": "nav_db_NAV23_2609_01_84d607bcba96a93195c84eb14fbd13360874e414dd3ae347ae51259af80e9ab1.zip",
+      "relative_path": "nav_db_NAV23_2609_01_84d607bcba96a93195c84eb14fbd13360874e414dd3ae347ae51259af80e9ab1.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "84d607bcba96a93195c84eb14fbd13360874e414dd3ae347ae51259af80e9ab1",
+      "size_bytes": 22083151,
+      "effective_date": "2026-09-03",
+      "expiration_date": "2026-10-01",
+      "metadata": {
+        "contract_id": "NAV23",
+        "procedure_geometry_error_count": 0,
+        "procedure_geometry_records_with_data_quality": 153,
+        "procedure_geometry_warning_count": 153,
+        "startup_prefetch_members": [
+          "root",
+          "page_0000",
+          "page_0258",
+          "page_0259",
+          "page_0669",
+          "page_0670",
+          "page_0707",
+          "page_2246",
+          "page_2294",
+          "page_3073",
+          "page_3074",
+          "page_3075",
+          "page_3076",
+          "page_3077",
+          "page_3098",
+          "page_3099",
+          "page_3100",
+          "page_3101",
+          "page_3102",
+          "page_3103",
+          "page_3515"
+        ]
+      }
+    }
+  ]
+}
