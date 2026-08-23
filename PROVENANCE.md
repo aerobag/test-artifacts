@@ -10,10 +10,16 @@
 | NMS NOTAM | FAA NOTAM Management Service Initial Load and `lastUpdatedDate` API | U.S. government data; DOT policy supports redissemination; reviewed onboarding material contains no redistribution restriction | Clear |
 | Obstacles | FAA Daily Digital Obstacle File | FAA states DOF is public domain with no use restrictions, but says not to alter and present it as source data | Clear as a derived, labeled fixture |
 | Winds aloft | NOAA/NCEP GFS 0.25-degree data via NOMADS | NOAA-produced data is public domain in the U.S. | Clear |
+| Release journeys | Derived compact FAA/NOAA/Natural Earth publication assembled by Aerobag | Same public-domain sources and Aerobag-created CC0 fixture metadata | Clear as labeled, non-navigation test data |
 
 Aerobag-created fixture manifests, documentation, and packaging metadata are
 dedicated under CC0-1.0. Aerobag does not claim copyright in U.S. government
 source data.
+
+The release-journey publication retains only the package members and historical
+live-feed states needed to exercise representative UI capabilities. It is
+derived test data, labeled for automated testing, and is not an official source
+or a product for navigation.
 
 ## References
 

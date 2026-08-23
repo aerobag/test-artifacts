@@ -1,0 +1,83 @@
+{
+  "schema_version": 3,
+  "generated_at_utc": "2026-08-22T18:37:57Z",
+  "products": {
+    "metars": {
+      "current": "7a2136bfb805f89c",
+      "version_manifest_url": "versions/metars/7a2136bfb805f89c.json",
+      "state_url": "states/metars/7a2136bfb805f89c.json.xz",
+      "state_sha256": "299dad4cb43a0586e8084f7f7b0958820d7ab424b63fd24f4cb641a2eb5f609a",
+      "collected_at_utc": "2026-08-22T18:35:00Z",
+      "history": []
+    },
+    "nexrad": {
+      "current": "20260822T183238Z_312d15f7d43cc09f_png89c0edbec",
+      "version_manifest_url": "versions/nexrad/20260822T183238Z_312d15f7d43cc09f_png89c0edbec.json",
+      "state_url": "states/nexrad/20260822T183238Z_312d15f7d43cc09f_png89c0edbec/manifest.json",
+      "state_sha256": "c92d4d16c9677ddec63977d81b6298c30953b0e6068062b91a942e570dbeb111",
+      "published_at_utc": "2026-08-22T18:32:38Z",
+      "collected_at_utc": "2026-08-22T18:34:00Z",
+      "history": [
+        {
+          "version": "20260822T182239Z_647ff2030b94125b_png89c0edbec",
+          "version_manifest_url": "versions/nexrad/20260822T182239Z_647ff2030b94125b_png89c0edbec.json",
+          "state_url": "states/nexrad/20260822T182239Z_647ff2030b94125b_png89c0edbec/manifest.json",
+          "state_sha256": "91ab8718ed150903bbba72069b839aa4ad8d29ad0ce71333250aafb134ca5ae2"
+        },
+        {
+          "version": "20260822T182843Z_dcaffdebeca33a06_png89c0edbec",
+          "version_manifest_url": "versions/nexrad/20260822T182843Z_dcaffdebeca33a06_png89c0edbec.json",
+          "state_url": "states/nexrad/20260822T182843Z_dcaffdebeca33a06_png89c0edbec/manifest.json",
+          "state_sha256": "2e4bddc35e67a311f2a14f76db69cce34542305af39a48c42068278f9ebf292e"
+        }
+      ]
+    },
+    "notams": {
+      "current": "4f793d1da65005b725946e9e11e36ab82b28d4813529fe5f85131d2f69594ab3",
+      "version_manifest_url": "versions/notams/4f793d1da65005b725946e9e11e36ab82b28d4813529fe5f85131d2f69594ab3.json",
+      "state_url": "states/notams/27d956bb2a0f3fe8a80ca04c9a06e095a10ad243b193f9c651d71fefab31c48d.json.xz",
+      "state_sha256": "4f793d1da65005b725946e9e11e36ab82b28d4813529fe5f85131d2f69594ab3",
+      "collected_at_utc": "2026-08-22T18:37:00Z",
+      "history": []
+    },
+    "obstacles": {
+      "current": "3bcd0fa422d4b332",
+      "version_manifest_url": "versions/obstacles/3bcd0fa422d4b332.json",
+      "state_url": "states/obstacles/3bcd0fa422d4b332/manifest.json",
+      "state_sha256": "173fb8ace9f5ba9c44666891156fa69f2ba642c7813d62cc23bf61821c689cf6",
+      "collected_at_utc": "2026-08-22T15:56:00Z",
+      "history": []
+    },
+    "pireps": {
+      "current": "58bd9d32f42ebb76",
+      "version_manifest_url": "versions/pireps/58bd9d32f42ebb76.json",
+      "state_url": "states/pireps/58bd9d32f42ebb76.json.xz",
+      "state_sha256": "7859a98723fe8c293b31f817125955e10dbda853e57c24761903b43bd47edef1",
+      "collected_at_utc": "2026-08-22T18:35:00Z",
+      "history": []
+    },
+    "tafs": {
+      "current": "b5f2fcdc8fedbe9b",
+      "version_manifest_url": "versions/tafs/b5f2fcdc8fedbe9b.json",
+      "state_url": "states/tafs/b5f2fcdc8fedbe9b.json.xz",
+      "state_sha256": "c99586e9214d1abd37d1a4b55e9b73c796018523cb665d72502a042a41be5f27",
+      "collected_at_utc": "2026-08-22T18:36:00Z",
+      "history": []
+    },
+    "tfrs": {
+      "current": "6c218141f4a42211",
+      "version_manifest_url": "versions/tfrs/6c218141f4a42211.json",
+      "state_url": "states/tfrs/6c218141f4a42211.json.xz",
+      "state_sha256": "bba5e83ceb3c1f4929214312ed8edc8a53a2426ade2f3ba5d985705f55fb0b76",
+      "collected_at_utc": "2026-08-22T18:35:00Z",
+      "history": []
+    },
+    "winds-aloft": {
+      "current": "a54f7062058e78ad",
+      "version_manifest_url": "versions/winds-aloft/a54f7062058e78ad.json",
+      "state_url": "states/winds-aloft/a54f7062058e78ad/manifest.json",
+      "state_sha256": "9b7941002866bd9b4ef75535bd818df53c3542fd73db7b73b7db6f7efb9d03dd",
+      "history": []
+    }
+  }
+}

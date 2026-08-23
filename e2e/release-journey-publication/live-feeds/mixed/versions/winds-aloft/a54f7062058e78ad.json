@@ -1,0 +1,19 @@
+{
+  "schema_version": 3,
+  "product": "winds-aloft",
+  "version": "a54f7062058e78ad",
+  "state": {
+    "kind": "nav_kv",
+    "url": "states/winds-aloft/a54f7062058e78ad/manifest.json",
+    "bytes": 1182,
+    "blob_sha256": "38cb3b112caccc73eb49fb145b6c908d73eefdba3b889110dbcc00b4a11e15c6",
+    "state_sha256": "9b7941002866bd9b4ef75535bd818df53c3542fd73db7b73b7db6f7efb9d03dd"
+  },
+  "install_state": {
+    "kind": "nav_kv_package",
+    "url": "packages/winds-aloft/a54f7062058e78ad.zip",
+    "bytes": 12909602,
+    "blob_sha256": "5bd1f219dcf288bcaaca2086274330cdc9200ed0d9e4a5de3e377c93b98a2e47",
+    "state_sha256": "9b7941002866bd9b4ef75535bd818df53c3542fd73db7b73b7db6f7efb9d03dd"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "schema_version": 1,
+  "product_id": "obstacles",
+  "version_label": "3bcd0fa422d4b332",
+  "generated_at_utc": "2026-08-17T22:14:00Z",
+  "encoding": "had-nav-kv-v4",
+  "root": "root",
+  "page_path_template": "page_{page:04}",
+  "page_count": 389,
+  "page_size": 65536,
+  "logical_bytes_len": 25493504,
+  "value_bytes_len": 13617590,
+  "state_sha256": "173fb8ace9f5ba9c44666891156fa69f2ba642c7813d62cc23bf61821c689cf6",
+  "obstacle_count": 87894,
+  "point_layers": {
+    "obstacle": {
+      "zoom": 12,
+      "min_zoom": 0,
+      "max_zoom": 12,
+      "available_zooms": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "tile_path_template": "obstacle/tile/z{z:02}/x{x:06}/y{y:06}",
+      "zoom_levels": [
+        {
+          "zoom": 0,
+          "filtered": true,
+          "min_agl_ft": 1800
+        },
+        {
+          "zoom": 1,
+          "filtered": true,
+          "min_agl_ft": 1800
+        },
+        {
+          "zoom": 2,
+          "filtered": true,
+          "min_agl_ft": 1600
+        },
+        {
+          "zoom": 3,
+          "filtered": true,
+          "min_agl_ft": 1550
+        },
+        {
+          "zoom": 4,
+          "filtered": true,
+          "min_agl_ft": 1500
+        },
+        {
+          "zoom": 5,
+          "filtered": true,
+          "min_agl_ft": 1150
+        },
+        {
+          "zoom": 6,
+          "filtered": true,
+          "min_agl_ft": 850
+        },
+        {
+          "zoom": 7,
+          "filtered": true,
+          "min_agl_ft": 750
+        },
+        {
+          "zoom": 8,
+          "filtered": true,
+          "min_agl_ft": 700
+        },
+        {
+          "zoom": 9,
+          "filtered": true,
+          "min_agl_ft": 700
+        },
+        {
+          "zoom": 10,
+          "filtered": true,
+          "min_agl_ft": 700
+        },
+        {
+          "zoom": 11,
+          "filtered": true,
+          "min_agl_ft": 700
+        },
+        {
+          "zoom": 12,
+          "filtered": false,
+          "min_agl_ft": 400
+        }
+      ]
+    }
+  },
+  "files": {
+    "page_path_template": "page_{page:04}",
+    "root": "root",
+    "stats": "stats.json"
+  }
+}

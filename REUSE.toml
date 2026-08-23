@@ -15,7 +15,7 @@ SPDX-FileCopyrightText = "United States Government"
 SPDX-License-Identifier = "LicenseRef-US-Government-Public-Domain"
 
 [[annotations]]
-path = "e2e/android-smoke-publication/published/**"
+path = ["e2e/android-smoke-publication/published/**", "e2e/release-journey-publication/live-feeds/**", "e2e/release-journey-publication/published/**"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = ["United States Government", "2026 Aerobag contributors"]
 SPDX-License-Identifier = "LicenseRef-US-Government-Public-Domain AND CC0-1.0"

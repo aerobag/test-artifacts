@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "product_id": "winds-aloft",
+  "version_label": "a54f7062058e78ad",
+  "generated_at_utc": "2026-08-22T12:00:00Z",
+  "model_id": "gfs-0p25",
+  "cycle_time_epoch_ms": 1787400000000,
+  "valid_times_epoch_ms": [
+    1787400000000,
+    1787410800000,
+    1787421600000,
+    1787432400000,
+    1787443200000,
+    1787454000000,
+    1787464800000,
+    1787475600000,
+    1787486400000
+  ],
+  "pressure_levels_mb": [
+    1000,
+    925,
+    850,
+    700,
+    600,
+    500,
+    400,
+    300
+  ],
+  "grid": {
+    "latitude_origin_deg": 55.0,
+    "latitude_step_deg": -0.25,
+    "longitude_origin_deg": -135.0,
+    "longitude_step_deg": 0.25,
+    "row_count": 161,
+    "column_count": 341,
+    "tile_row_count": 8,
+    "tile_column_count": 8
+  },
+  "encoding": "had-nav-kv-v4",
+  "tile_encoding": "aerobag-atmosphere-tile-v1-protobuf",
+  "array_order": "valid_time,pressure_level,row,column",
+  "root": "root",
+  "page_path_template": "page_{page:04}",
+  "page_count": 492,
+  "page_size": 65536,
+  "logical_bytes_len": 32243712,
+  "value_bytes_len": 32137320,
+  "state_sha256": "9b7941002866bd9b4ef75535bd818df53c3542fd73db7b73b7db6f7efb9d03dd",
+  "tile_count": 903
+}

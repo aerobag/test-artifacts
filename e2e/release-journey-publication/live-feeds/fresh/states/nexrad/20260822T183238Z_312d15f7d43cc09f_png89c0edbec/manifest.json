@@ -1,0 +1,95 @@
+{
+  "debug_lat_lon_grid": false,
+  "levels": [
+    {
+      "height": 3500,
+      "quality": {
+        "palette_error_max": 5.0,
+        "palette_error_p95": 3.0,
+        "poor_color_match_count": 0
+      },
+      "res": 0,
+      "tile_cols": 14,
+      "tile_rows": 7,
+      "width": 7000
+    },
+    {
+      "height": 1750,
+      "quality": {
+        "palette_error_max": 5.0,
+        "palette_error_p95": 3.0,
+        "poor_color_match_count": 0
+      },
+      "res": 1,
+      "tile_cols": 7,
+      "tile_rows": 4,
+      "width": 3500
+    },
+    {
+      "height": 875,
+      "quality": {
+        "palette_error_max": 5.0,
+        "palette_error_p95": 3.0,
+        "poor_color_match_count": 0
+      },
+      "res": 2,
+      "tile_cols": 4,
+      "tile_rows": 2,
+      "width": 1750
+    },
+    {
+      "height": 438,
+      "quality": {
+        "palette_error_max": 5.0,
+        "palette_error_p95": 3.0,
+        "poor_color_match_count": 0
+      },
+      "res": 3,
+      "tile_cols": 2,
+      "tile_rows": 1,
+      "width": 875
+    }
+  ],
+  "observed_at_utc": "2026-08-22T18:32:38+00:00",
+  "palette": {
+    "opaque_indices": [
+      1,
+      255
+    ],
+    "sha256": "9c0edbecb15256a2a3c0e7e5be934624e20590714d350a8a46dedd6fb13c6ba1",
+    "transparent_index": 0
+  },
+  "product": "nexrad",
+  "quality": {
+    "palette_error_max": 5.0,
+    "palette_error_p95": 3.0,
+    "poor_color_match_count": 0,
+    "poor_color_match_threshold": 8
+  },
+  "res-levels": [
+    0,
+    1,
+    2,
+    3
+  ],
+  "schema_version": 1,
+  "source_file": "CONUS_L2_CREF_QCD_20260822_183238.tif.gz",
+  "source_grid": {
+    "geo_transform": [
+      -130.0,
+      0.009999999776482582,
+      0.0,
+      55.0,
+      0.0,
+      -0.009999999776482582
+    ],
+    "height": 3500,
+    "projection_wkt": "GEOGCS[\"WGS 84\",DATUM[\"WGS_1984\",SPHEROID[\"WGS 84\",6378137,298.257223563,AUTHORITY[\"EPSG\",\"7030\"]],AUTHORITY[\"EPSG\",\"6326\"]],PRIMEM[\"Greenwich\",0,AUTHORITY[\"EPSG\",\"8901\"]],UNIT[\"degree\",0.0174532925199433,AUTHORITY[\"EPSG\",\"9122\"]],AXIS[\"Latitude\",NORTH],AXIS[\"Longitude\",EAST],AUTHORITY[\"EPSG\",\"4326\"]]",
+    "width": 7000
+  },
+  "source_sha256": "312d15f7d43cc09f3754cdff9be6255caaeeda75447c389b2d8d5e40d55b1d96",
+  "state_id": "20260822T183238Z_312d15f7d43cc09f_png89c0edbec",
+  "tile_encoding": "png8-fixed-palette",
+  "tile_path_template": "tiles/res{res}/{x}/{y}.png",
+  "tile_size": 512
+}

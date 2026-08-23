@@ -1,0 +1,23 @@
+{
+  "schema_version": 3,
+  "product": "pireps",
+  "version": "58bd9d32f42ebb76",
+  "previous": "401193a7ccb65b81",
+  "state": {
+    "kind": "json_xz",
+    "url": "states/pireps/58bd9d32f42ebb76.json.xz",
+    "bytes": 70932,
+    "blob_sha256": "8f12b8425bd0ed6e023a2ff34d5126f877ba50946b0025ed01b47e05a3dc5009",
+    "state_sha256": "7859a98723fe8c293b31f817125955e10dbda853e57c24761903b43bd47edef1"
+  },
+  "delta_from_previous": {
+    "kind": "record_json_delta_xz",
+    "from_version": "401193a7ccb65b81",
+    "from_state_sha256": "f9b2ca38328c86f759489acfe834076fa5b2b6583d09fc3e446b183b19d6e656",
+    "to_version": "58bd9d32f42ebb76",
+    "to_state_sha256": "7859a98723fe8c293b31f817125955e10dbda853e57c24761903b43bd47edef1",
+    "url": "deltas/pireps/401193a7ccb65b81__58bd9d32f42ebb76.json.xz",
+    "bytes": 9796,
+    "blob_sha256": "3f6a591f7b510cdfa9ae6694276250fabaeab4685b45690bdc3ef9a6d442a613"
+  }
+}

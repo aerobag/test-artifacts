@@ -1,0 +1,244 @@
+{
+  "schema_version": 1,
+  "fixture": "release-journey-publication",
+  "publication_root": "published",
+  "source_current_artifacts_sha256": "d31f183a0a24c1c5bf5086e14c1b630e9af8c480556ac0160b29f544ef0baf65",
+  "publications": [
+    {
+      "cycle": "2608",
+      "source_bundle_sha256": "05db13a969bd12e5badc7c85bea099c38d6e1b3127aa4f6227f8858ee362fc66",
+      "packages": [
+        {
+          "family_id": "csup",
+          "region_id": "nw",
+          "member_count": 2
+        },
+        {
+          "family_id": "enr-h",
+          "region_id": "nw",
+          "member_count": 49
+        },
+        {
+          "family_id": "enr-h",
+          "region_id": "nw",
+          "member_count": 89
+        },
+        {
+          "family_id": "enr-h",
+          "region_id": "wide",
+          "member_count": 238
+        },
+        {
+          "family_id": "enr-l",
+          "region_id": "nw",
+          "member_count": 49
+        },
+        {
+          "family_id": "enr-l",
+          "region_id": "nw",
+          "member_count": 136
+        },
+        {
+          "family_id": "enr-l",
+          "region_id": "wide",
+          "member_count": 148
+        },
+        {
+          "family_id": "sec",
+          "region_id": "nw",
+          "member_count": 49
+        },
+        {
+          "family_id": "sec",
+          "region_id": "nw",
+          "member_count": 134
+        },
+        {
+          "family_id": "sec",
+          "region_id": "sw",
+          "member_count": 49
+        },
+        {
+          "family_id": "sec",
+          "region_id": "sw",
+          "member_count": 129
+        },
+        {
+          "family_id": "sec",
+          "region_id": "wide",
+          "member_count": 160
+        },
+        {
+          "family_id": "tac",
+          "region_id": "nw",
+          "member_count": 98
+        },
+        {
+          "family_id": "tac",
+          "region_id": "nw",
+          "member_count": 231
+        },
+        {
+          "family_id": "tac",
+          "region_id": "sw",
+          "member_count": 98
+        },
+        {
+          "family_id": "tac",
+          "region_id": "sw",
+          "member_count": 228
+        },
+        {
+          "family_id": "tac",
+          "region_id": "wide",
+          "member_count": 110
+        },
+        {
+          "family_id": "tpp",
+          "region_id": "nc",
+          "member_count": 1
+        },
+        {
+          "family_id": "tpp",
+          "region_id": "nw",
+          "member_count": 5
+        },
+        {
+          "family_id": "world-basemap",
+          "region_id": null,
+          "member_count": 342
+        },
+        {
+          "family_id": "terrain",
+          "region_id": "nw",
+          "member_count": 160
+        },
+        {
+          "family_id": "shaded-relief",
+          "region_id": "nw",
+          "member_count": 91
+        },
+        {
+          "family_id": "nav-db",
+          "region_id": null,
+          "member_count": 3559
+        }
+      ]
+    }
+  ],
+  "live_feed_publications": [
+    {
+      "source_current_sha256": "17b3e38a6c20dcf55ac03a4d4aa02f7a5c7f12e6408132379dc4deb7e09f709e",
+      "product_count": 8,
+      "version_count": 10,
+      "stale": false
+    },
+    {
+      "source_current_sha256": "17b3e38a6c20dcf55ac03a4d4aa02f7a5c7f12e6408132379dc4deb7e09f709e",
+      "product_count": 8,
+      "version_count": 10,
+      "stale": false,
+      "mixed": true,
+      "missing_product": "pireps",
+      "stale_product": "tfrs"
+    },
+    {
+      "source_current_sha256": "17b3e38a6c20dcf55ac03a4d4aa02f7a5c7f12e6408132379dc4deb7e09f709e",
+      "product_count": 8,
+      "version_count": 10,
+      "stale": true
+    }
+  ],
+  "dependencies": [
+    "nav-db-advance"
+  ],
+  "capabilities": {
+    "reference_epoch_ms": 1787423877000,
+    "initial_viewport": {
+      "latitude": 47.493,
+      "longitude": -122.216,
+      "zoom": 10
+    },
+    "raster_families": [
+      "none",
+      "sec",
+      "tac",
+      "flyway",
+      "enr-l",
+      "enr-h",
+      "shaded-relief"
+    ],
+    "airport": {
+      "runway_complex": "KSEA",
+      "runway_fallback": "S88",
+      "published_tpa": "KRNT",
+      "derived_tpa": "KPAE"
+    },
+    "airway": {
+      "entry": "MEDEA",
+      "airway": "V4",
+      "exit": "YKM"
+    },
+    "procedure": {
+      "sid": {
+        "airport_id": "KSEA",
+        "procedure_id": "BANGR9"
+      },
+      "star": {
+        "airport_id": "KPAE",
+        "procedure_id": "CHINS5",
+        "transition": "YKM"
+      },
+      "approach": {
+        "airport_id": "KOMA",
+        "procedure_id": "I32R",
+        "transition": "OVR"
+      }
+    },
+    "plate": {
+      "georeferenced": {
+        "airport_id": "KPAE",
+        "label_contains": "RNAV 34L"
+      },
+      "multi_page_rotated": {
+        "airport_id": "KPAE",
+        "label_contains": "CHINS FIVE"
+      },
+      "notam": {
+        "airport_id": "KOMA",
+        "label_contains": "ILS OR LOC 32R"
+      },
+      "geometry_warning": {
+        "airport_id": "KOMA",
+        "label_contains": "ILS OR LOC 32R"
+      },
+      "legend": {
+        "family_id": "tac",
+        "label_contains": "Seattle TAC"
+      },
+      "inset": {
+        "family_id": "tac",
+        "map_airport_id": "KLAX",
+        "label_contains": "Los Angeles TAC Insets"
+      }
+    },
+    "document": {
+      "csup": {
+        "airport_id": "KSEA"
+      },
+      "other": {
+        "airport_id": "KSEA",
+        "label_contains": "AIRPORT DIAGRAM"
+      }
+    },
+    "replay_trace": "replay/track-gap.json",
+    "second_publication": {
+      "fixture": "nav-db-advance"
+    },
+    "live_feeds": {
+      "fresh": "live-feeds/fresh",
+      "mixed": "live-feeds/mixed",
+      "stale": "live-feeds/stale"
+    }
+  }
+}
