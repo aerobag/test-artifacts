@@ -128,16 +128,23 @@
   ],
   "live_feed_publications": [
     {
-      "source_current_sha256": "17b3e38a6c20dcf55ac03a4d4aa02f7a5c7f12e6408132379dc4deb7e09f709e",
-      "product_count": 8,
-      "version_count": 10,
-      "stale": false
+      "product_count": 0,
+      "version_count": 0,
+      "empty": true
     },
     {
       "source_current_sha256": "17b3e38a6c20dcf55ac03a4d4aa02f7a5c7f12e6408132379dc4deb7e09f709e",
       "product_count": 8,
       "version_count": 10,
       "stale": false,
+      "pirep_overlay": true
+    },
+    {
+      "source_current_sha256": "17b3e38a6c20dcf55ac03a4d4aa02f7a5c7f12e6408132379dc4deb7e09f709e",
+      "product_count": 8,
+      "version_count": 10,
+      "stale": false,
+      "pirep_overlay": true,
       "mixed": true,
       "missing_product": "pireps",
       "stale_product": "tfrs"
@@ -146,7 +153,8 @@
       "source_current_sha256": "17b3e38a6c20dcf55ac03a4d4aa02f7a5c7f12e6408132379dc4deb7e09f709e",
       "product_count": 8,
       "version_count": 10,
-      "stale": true
+      "stale": true,
+      "pirep_overlay": true
     }
   ],
   "dependencies": [
@@ -236,9 +244,12 @@
       "fixture": "nav-db-advance"
     },
     "live_feeds": {
+      "empty": "live-feeds/empty",
       "fresh": "live-feeds/fresh",
       "mixed": "live-feeds/mixed",
-      "stale": "live-feeds/stale"
+      "stale": "live-feeds/stale",
+      "pirep_target_airport": "KSEA",
+      "tfr_target_airport": "27W"
     }
   }
 }

@@ -52,7 +52,7 @@
       "current": "58bd9d32f42ebb76",
       "version_manifest_url": "versions/pireps/58bd9d32f42ebb76.json",
       "state_url": "states/pireps/58bd9d32f42ebb76.json.xz",
-      "state_sha256": "7859a98723fe8c293b31f817125955e10dbda853e57c24761903b43bd47edef1",
+      "state_sha256": "66bfbbd0c8df1e7f9ab6a829e134abd41f23fdbdcaf4af2797999fd0b991d1b3",
       "collected_at_utc": "2020-01-01T00:00:00Z",
       "history": []
     },
