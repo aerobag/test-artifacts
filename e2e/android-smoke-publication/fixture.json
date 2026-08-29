@@ -8,6 +8,14 @@
     "start": "2020-01-01",
     "end": "2100-01-01"
   },
+  "capabilities": {
+    "plate": {
+      "georeferenced": {
+        "airport_id": "KPLU",
+        "label_contains": "RNAV 35"
+      }
+    }
+  },
   "packages": [
     {
       "family_id": "nav-db",
