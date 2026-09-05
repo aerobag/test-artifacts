@@ -1,0 +1,71 @@
+{
+  "schema_version": 2,
+  "bundle_id": "cycle_2608_01",
+  "bundle_type": "cycle",
+  "cycle": "2608",
+  "cycle_version": "01",
+  "generated_at_utc": "2026-07-25T00:00:00Z",
+  "effective_date": "2020-01-01",
+  "expiration_date": "2100-01-01",
+  "start_valid": "2020-01-01",
+  "end_valid": "2100-01-01",
+  "packages": [
+    {
+      "id": "NAV_DB_NAV24_2608_01",
+      "family_id": "nav-db",
+      "contract_id": "NAV24",
+      "filename": "nav_db_NAV24_2608_01_fc7ca63d511a67198000a82ee4f3c7cd075b8f8f1aecbce704cda83a7be41327.zip",
+      "relative_path": "nav_db_NAV24_2608_01_fc7ca63d511a67198000a82ee4f3c7cd075b8f8f1aecbce704cda83a7be41327.zip",
+      "cycle": "2608",
+      "cycle_version": "01",
+      "checksum_sha256": "fc7ca63d511a67198000a82ee4f3c7cd075b8f8f1aecbce704cda83a7be41327",
+      "size_bytes": 22261269,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "NAV24",
+        "procedure_geometry_error_count": 0,
+        "procedure_geometry_records_with_data_quality": 158,
+        "procedure_geometry_warning_count": 158,
+        "startup_prefetch_members": [
+          "root",
+          "page_0000",
+          "page_0259",
+          "page_0669",
+          "page_0670",
+          "page_0707",
+          "page_2279",
+          "page_2326",
+          "page_3110",
+          "page_3111",
+          "page_3113",
+          "page_3114",
+          "page_3135",
+          "page_3136",
+          "page_3137",
+          "page_3138",
+          "page_3139",
+          "page_3140",
+          "page_3555"
+        ]
+      }
+    },
+    {
+      "id": "NW_TPP_TPP1_2608",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "nw",
+      "filename": "tpp_nw_TPP1_2608_01_e2e_12a59cc4a7f3c140f4b0d2d38518a782faa86572a304d1dde59d60125dd4c445.zip",
+      "relative_path": "tpp_nw_TPP1_2608_01_e2e_12a59cc4a7f3c140f4b0d2d38518a782faa86572a304d1dde59d60125dd4c445.zip",
+      "cycle": "2608",
+      "cycle_version": "01",
+      "checksum_sha256": "12a59cc4a7f3c140f4b0d2d38518a782faa86572a304d1dde59d60125dd4c445",
+      "size_bytes": 550571,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    }
+  ]
+}
