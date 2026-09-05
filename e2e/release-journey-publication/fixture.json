@@ -2,11 +2,11 @@
   "schema_version": 1,
   "fixture": "release-journey-publication",
   "publication_root": "published",
-  "source_current_artifacts_sha256": "d31f183a0a24c1c5bf5086e14c1b630e9af8c480556ac0160b29f544ef0baf65",
+  "source_current_artifacts_sha256": "a7a7b105b7eb5541e7043f13b255759de71390c7dc16d2d6782a23acdf06b93a",
   "publications": [
     {
       "cycle": "2608",
-      "source_bundle_sha256": "05db13a969bd12e5badc7c85bea099c38d6e1b3127aa4f6227f8858ee362fc66",
+      "source_bundle_sha256": "48ecb0793777140621f4ffa3d7ea5e8a07602fa6f3e0a7f14c46739bd8d885e4",
       "packages": [
         {
           "family_id": "csup",
@@ -121,7 +121,7 @@
         {
           "family_id": "nav-db",
           "region_id": null,
-          "member_count": 3559
+          "member_count": 3554
         }
       ]
     }
