@@ -1,6 +1,30 @@
 {
   "schema_version": 1,
   "fixture": "release-journey-publication",
+  "client_contracts": {
+    "publication": {
+      "current_manifest_schema": 1,
+      "bundle_manifest_schema": 2
+    },
+    "package_contracts": {
+      "csup": "CSUP1",
+      "enr-h": "ENH1",
+      "enr-l": "ENL1",
+      "nav-db": "NAV24",
+      "sec": "SEC1",
+      "shaded-relief": "SHD1",
+      "tac": "TAC1",
+      "terrain": "TER2",
+      "tpp": "TPP1",
+      "world-basemap": "WBM1"
+    },
+    "live_feeds": {
+      "manifest_schema": 3,
+      "product_contracts": {
+        "notams": 7
+      }
+    }
+  },
   "publication_root": "published",
   "source_current_artifacts_sha256": "a7a7b105b7eb5541e7043f13b255759de71390c7dc16d2d6782a23acdf06b93a",
   "publications": [

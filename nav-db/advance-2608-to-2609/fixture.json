@@ -1,6 +1,15 @@
 {
   "schema_version": 1,
   "purpose": "transactional runtime NAVDB advance from 2608 to 2609",
+  "client_contracts": {
+    "publication": {
+      "current_manifest_schema": 1,
+      "bundle_manifest_schema": 2
+    },
+    "package_contracts": {
+      "nav-db": "NAV24"
+    }
+  },
   "source": {
     "publication_build": ".",
     "current_artifacts_filename": "source/current_artifacts.json",
