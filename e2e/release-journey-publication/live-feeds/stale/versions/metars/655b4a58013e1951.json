@@ -1,0 +1,23 @@
+{
+  "schema_version": 3,
+  "product": "metars",
+  "version": "655b4a58013e1951",
+  "previous": "ed93289aa3777fab",
+  "state": {
+    "kind": "json_xz",
+    "url": "states/metars/655b4a58013e1951.json.xz",
+    "bytes": 147348,
+    "blob_sha256": "4af996d7697c00c66fcd9ae4b317fbd0ae104566d2eec853d5520dc56af701c6",
+    "state_sha256": "f1663dc595c75958c1f0200936cb121d4e8b5c37fb85cdaa440f4ba719ed7102"
+  },
+  "delta_from_previous": {
+    "kind": "record_json_delta_xz",
+    "from_version": "ed93289aa3777fab",
+    "from_state_sha256": "c44bc52eefec7997accdaeeb39401247746af657f63e33071145e3005d0623ec",
+    "to_version": "655b4a58013e1951",
+    "to_state_sha256": "f1663dc595c75958c1f0200936cb121d4e8b5c37fb85cdaa440f4ba719ed7102",
+    "url": "deltas/metars/ed93289aa3777fab__655b4a58013e1951.json.xz",
+    "bytes": 9556,
+    "blob_sha256": "97a56d70c78142a491da19d177296bcfc1308af045f42c54e995859539303179"
+  }
+}

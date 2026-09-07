@@ -1,0 +1,28 @@
+{
+  "schema_version": 3,
+  "product": "nexrad",
+  "version": "20260905T133441Z_560b2bb641e541b6_png89c0edbec",
+  "state": {
+    "kind": "json",
+    "url": "states/nexrad/20260905T133441Z_560b2bb641e541b6_png89c0edbec/manifest.json",
+    "bytes": 2397,
+    "blob_sha256": "5dad1bb3dcad9a119e3ce7bf482fac739c15a2217da3de2fcef8bc08b2e13880",
+    "state_sha256": "556f10ad5fefc615bb976521d1105bf41289786eb6c5a16ea99b0ed712930eeb"
+  },
+  "install_profiles": {
+    "offline_0": {
+      "kind": "directory_package",
+      "url": "packages/nexrad/20260905T133441Z_560b2bb641e541b6_png89c0edbec.offline_0.zip",
+      "bytes": 851247,
+      "blob_sha256": "59ed6d12852dacecef5ea8448aa27a3650802ee9a731c090c259b08635e435a2",
+      "state_sha256": "556f10ad5fefc615bb976521d1105bf41289786eb6c5a16ea99b0ed712930eeb"
+    },
+    "offline_low1": {
+      "kind": "directory_package",
+      "url": "packages/nexrad/20260905T133441Z_560b2bb641e541b6_png89c0edbec.offline_low1.zip",
+      "bytes": 248217,
+      "blob_sha256": "a08642081a97d725817faa7d9927ce156fb308828874db3e9e225c8e69f12a95",
+      "state_sha256": "556f10ad5fefc615bb976521d1105bf41289786eb6c5a16ea99b0ed712930eeb"
+    }
+  }
+}

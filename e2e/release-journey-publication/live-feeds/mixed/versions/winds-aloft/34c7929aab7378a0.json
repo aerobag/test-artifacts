@@ -1,0 +1,24 @@
+{
+  "schema_version": 3,
+  "product": "winds-aloft",
+  "version": "34c7929aab7378a0",
+  "temporal_coverage": {
+    "reference_time_epoch_ms": 1788588000000,
+    "valid_from_epoch_ms": 1788588000000,
+    "valid_through_epoch_ms": 1788674400000
+  },
+  "state": {
+    "kind": "nav_kv",
+    "url": "states/winds-aloft/34c7929aab7378a0/manifest.json",
+    "bytes": 959,
+    "blob_sha256": "15f0bcab638af4538408b68592616bb3fa150336390ea53bcaececb2f9f0e9b0",
+    "state_sha256": "c637d1b1954d821d3dd5ac0b0969a026dafc2a03c8e5ee7eef5b34a97b71a109"
+  },
+  "install_state": {
+    "kind": "nav_kv_package",
+    "url": "packages/winds-aloft/34c7929aab7378a0.zip",
+    "bytes": 12872859,
+    "blob_sha256": "ddf42355f9e19b20301a541c6c391461a7ef4aa7375e9dfbb5cf90ada48cbf55",
+    "state_sha256": "c637d1b1954d821d3dd5ac0b0969a026dafc2a03c8e5ee7eef5b34a97b71a109"
+  }
+}

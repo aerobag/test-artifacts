@@ -1,74 +1,74 @@
 {
   "schema_version": 3,
-  "generated_at_utc": "2026-08-22T18:37:57Z",
+  "generated_at_utc": "2026-09-05T13:35:39Z",
   "products": {
     "metars": {
-      "current": "7a2136bfb805f89c",
-      "version_manifest_url": "versions/metars/7a2136bfb805f89c.json",
-      "state_url": "states/metars/7a2136bfb805f89c.json.xz",
-      "state_sha256": "299dad4cb43a0586e8084f7f7b0958820d7ab424b63fd24f4cb641a2eb5f609a",
-      "collected_at_utc": "2026-08-22T18:35:00Z",
+      "current": "655b4a58013e1951",
+      "version_manifest_url": "versions/metars/655b4a58013e1951.json",
+      "state_url": "states/metars/655b4a58013e1951.json.xz",
+      "state_sha256": "f1663dc595c75958c1f0200936cb121d4e8b5c37fb85cdaa440f4ba719ed7102",
+      "collected_at_utc": "2026-09-05T13:34:00Z",
       "history": []
     },
     "nexrad": {
-      "current": "20260822T183238Z_312d15f7d43cc09f_png89c0edbec",
-      "version_manifest_url": "versions/nexrad/20260822T183238Z_312d15f7d43cc09f_png89c0edbec.json",
-      "state_url": "states/nexrad/20260822T183238Z_312d15f7d43cc09f_png89c0edbec/manifest.json",
-      "state_sha256": "c92d4d16c9677ddec63977d81b6298c30953b0e6068062b91a942e570dbeb111",
-      "published_at_utc": "2026-08-22T18:32:38Z",
-      "collected_at_utc": "2026-08-22T18:34:00Z",
+      "current": "20260905T133441Z_560b2bb641e541b6_png89c0edbec",
+      "version_manifest_url": "versions/nexrad/20260905T133441Z_560b2bb641e541b6_png89c0edbec.json",
+      "state_url": "states/nexrad/20260905T133441Z_560b2bb641e541b6_png89c0edbec/manifest.json",
+      "state_sha256": "556f10ad5fefc615bb976521d1105bf41289786eb6c5a16ea99b0ed712930eeb",
+      "published_at_utc": "2026-09-05T13:34:41Z",
+      "collected_at_utc": "2026-09-05T13:35:00Z",
       "history": [
         {
-          "version": "20260822T182239Z_647ff2030b94125b_png89c0edbec",
-          "version_manifest_url": "versions/nexrad/20260822T182239Z_647ff2030b94125b_png89c0edbec.json",
-          "state_url": "states/nexrad/20260822T182239Z_647ff2030b94125b_png89c0edbec/manifest.json",
-          "state_sha256": "91ab8718ed150903bbba72069b839aa4ad8d29ad0ce71333250aafb134ca5ae2"
+          "version": "20260905T132442Z_71d82d39ac816409_png89c0edbec",
+          "version_manifest_url": "versions/nexrad/20260905T132442Z_71d82d39ac816409_png89c0edbec.json",
+          "state_url": "states/nexrad/20260905T132442Z_71d82d39ac816409_png89c0edbec/manifest.json",
+          "state_sha256": "d0a6e22fe73d4be7fd58b34a95fb202d4b17e8fd8a1fcae571defc2b92a9ebc9"
         },
         {
-          "version": "20260822T182843Z_dcaffdebeca33a06_png89c0edbec",
-          "version_manifest_url": "versions/nexrad/20260822T182843Z_dcaffdebeca33a06_png89c0edbec.json",
-          "state_url": "states/nexrad/20260822T182843Z_dcaffdebeca33a06_png89c0edbec/manifest.json",
-          "state_sha256": "2e4bddc35e67a311f2a14f76db69cce34542305af39a48c42068278f9ebf292e"
+          "version": "20260905T132841Z_e5ed1ad4655bcbb1_png89c0edbec",
+          "version_manifest_url": "versions/nexrad/20260905T132841Z_e5ed1ad4655bcbb1_png89c0edbec.json",
+          "state_url": "states/nexrad/20260905T132841Z_e5ed1ad4655bcbb1_png89c0edbec/manifest.json",
+          "state_sha256": "ff5aa54bb1d784f062d7802b6bee6f4f3eed4a549fae2a76256365efdf2e6b6a"
         }
       ]
     },
     "notams": {
-      "current": "4f793d1da65005b725946e9e11e36ab82b28d4813529fe5f85131d2f69594ab3",
-      "version_manifest_url": "versions/notams/4f793d1da65005b725946e9e11e36ab82b28d4813529fe5f85131d2f69594ab3.json",
-      "state_url": "states/notams/27d956bb2a0f3fe8a80ca04c9a06e095a10ad243b193f9c651d71fefab31c48d.json.xz",
-      "state_sha256": "4f793d1da65005b725946e9e11e36ab82b28d4813529fe5f85131d2f69594ab3",
-      "collected_at_utc": "2026-08-22T18:37:00Z",
+      "current": "07606cb7faaf68a5d09c44ed2ad3cf66bc86aceed541a63d0554763470e4da2e",
+      "version_manifest_url": "versions/notams/07606cb7faaf68a5d09c44ed2ad3cf66bc86aceed541a63d0554763470e4da2e.json",
+      "state_url": "states/notams/3d70e7565b1f969d432af31140ddfb5ed41f7cc47afeb0cfdbe4f9ed4f5bb826.json.xz",
+      "state_sha256": "07606cb7faaf68a5d09c44ed2ad3cf66bc86aceed541a63d0554763470e4da2e",
+      "collected_at_utc": "2026-09-05T13:34:00Z",
       "history": []
     },
     "obstacles": {
-      "current": "3bcd0fa422d4b332",
-      "version_manifest_url": "versions/obstacles/3bcd0fa422d4b332.json",
-      "state_url": "states/obstacles/3bcd0fa422d4b332/manifest.json",
-      "state_sha256": "173fb8ace9f5ba9c44666891156fa69f2ba642c7813d62cc23bf61821c689cf6",
-      "collected_at_utc": "2026-08-22T15:56:00Z",
+      "current": "e0b38836a904f703",
+      "version_manifest_url": "versions/obstacles/e0b38836a904f703.json",
+      "state_url": "states/obstacles/e0b38836a904f703/manifest.json",
+      "state_sha256": "54ffdcedc186b5244cb26e9246fa13f29f7c4771f3d684f03947eb6896dd1935",
+      "collected_at_utc": "2026-09-05T10:34:00Z",
       "history": []
     },
     "tafs": {
-      "current": "b5f2fcdc8fedbe9b",
-      "version_manifest_url": "versions/tafs/b5f2fcdc8fedbe9b.json",
-      "state_url": "states/tafs/b5f2fcdc8fedbe9b.json.xz",
-      "state_sha256": "c99586e9214d1abd37d1a4b55e9b73c796018523cb665d72502a042a41be5f27",
-      "collected_at_utc": "2026-08-22T18:36:00Z",
+      "current": "ab8c4e99e9b452a4",
+      "version_manifest_url": "versions/tafs/ab8c4e99e9b452a4.json",
+      "state_url": "states/tafs/ab8c4e99e9b452a4.json.xz",
+      "state_sha256": "f25a7e3739da08e82be049088373f2158af5ebe24b953fa6cdbea7bb1a2248a9",
+      "collected_at_utc": "2026-09-05T13:34:00Z",
       "history": []
     },
     "tfrs": {
-      "current": "6c218141f4a42211",
-      "version_manifest_url": "versions/tfrs/6c218141f4a42211.json",
-      "state_url": "states/tfrs/6c218141f4a42211.json.xz",
-      "state_sha256": "bba5e83ceb3c1f4929214312ed8edc8a53a2426ade2f3ba5d985705f55fb0b76",
+      "current": "9816532dea8f47a6",
+      "version_manifest_url": "versions/tfrs/9816532dea8f47a6.json",
+      "state_url": "states/tfrs/9816532dea8f47a6.json.xz",
+      "state_sha256": "3d96b31862fa0f38f992cfb7210100189db5f71c795c97e42928bbc090d4beb0",
       "collected_at_utc": "2020-01-01T00:00:00Z",
       "history": []
     },
     "winds-aloft": {
-      "current": "a54f7062058e78ad",
-      "version_manifest_url": "versions/winds-aloft/a54f7062058e78ad.json",
-      "state_url": "states/winds-aloft/a54f7062058e78ad/manifest.json",
-      "state_sha256": "9b7941002866bd9b4ef75535bd818df53c3542fd73db7b73b7db6f7efb9d03dd",
+      "current": "34c7929aab7378a0",
+      "version_manifest_url": "versions/winds-aloft/34c7929aab7378a0.json",
+      "state_url": "states/winds-aloft/34c7929aab7378a0/manifest.json",
+      "state_sha256": "c637d1b1954d821d3dd5ac0b0969a026dafc2a03c8e5ee7eef5b34a97b71a109",
       "history": []
     }
   }
