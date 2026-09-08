@@ -10,7 +10,7 @@
       "csup": "CSUP1",
       "enr-h": "ENH1",
       "enr-l": "ENL1",
-      "nav-db": "NAV24",
+      "nav-db": "NAV25",
       "sec": "SEC1",
       "shaded-relief": "SHD1",
       "tac": "TAC1",
@@ -26,11 +26,11 @@
     }
   },
   "publication_root": "published",
-  "source_current_artifacts_sha256": "a7a7b105b7eb5541e7043f13b255759de71390c7dc16d2d6782a23acdf06b93a",
+  "source_current_artifacts_sha256": "3a4b09c9c10b089833a8cb54fc7f1072ee39f566c519e0527b5f6e345db15100",
   "publications": [
     {
       "cycle": "2609",
-      "source_bundle_sha256": "896a3e352e0add462d2d0581b573794c79b80d969ba8c0545b3c568a9c7daabd",
+      "source_bundle_sha256": "4ebe78f27c7a879fc47a0b530570599ec8735cf9a4795fc16a065343b0b42394",
       "packages": [
         {
           "family_id": "csup",
@@ -115,7 +115,7 @@
         {
           "family_id": "tac",
           "region_id": "wide",
-          "member_count": 110
+          "member_count": 125
         },
         {
           "family_id": "tpp",
@@ -145,7 +145,7 @@
         {
           "family_id": "nav-db",
           "region_id": null,
-          "member_count": 3554
+          "member_count": 3682
         }
       ]
     }
@@ -157,14 +157,14 @@
       "empty": true
     },
     {
-      "source_current_sha256": "364362ea375a9fdcd3f988545014caadd2927142a2c90b593bcc9c34c3c6f1f7",
+      "source_current_sha256": "d94a767bab103645b549ceca43304a7d0616d7d15ad405094f519820972b9439",
       "product_count": 8,
       "version_count": 10,
       "stale": false,
       "pirep_overlay": true
     },
     {
-      "source_current_sha256": "364362ea375a9fdcd3f988545014caadd2927142a2c90b593bcc9c34c3c6f1f7",
+      "source_current_sha256": "d94a767bab103645b549ceca43304a7d0616d7d15ad405094f519820972b9439",
       "product_count": 8,
       "version_count": 10,
       "stale": false,
@@ -174,16 +174,14 @@
       "stale_product": "tfrs"
     },
     {
-      "source_current_sha256": "364362ea375a9fdcd3f988545014caadd2927142a2c90b593bcc9c34c3c6f1f7",
+      "source_current_sha256": "d94a767bab103645b549ceca43304a7d0616d7d15ad405094f519820972b9439",
       "product_count": 8,
       "version_count": 10,
       "stale": true,
       "pirep_overlay": true
     }
   ],
-  "dependencies": [
-    "nav-db-advance"
-  ],
+  "dependencies": [],
   "capabilities": {
     "reference_epoch_ms": 1788615339000,
     "initial_viewport": {
@@ -265,7 +263,7 @@
     },
     "replay_trace": "replay/track-gap.json",
     "second_publication": {
-      "fixture": "nav-db-advance"
+      "generator": "nav_db_rollover_lab"
     },
     "live_feeds": {
       "empty": "live-feeds/empty",

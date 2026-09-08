@@ -5,7 +5,7 @@
       "csup": "CSUP1",
       "enr-h": "ENH1",
       "enr-l": "ENL1",
-      "nav-db": "NAV24",
+      "nav-db": "NAV25",
       "sec": "SEC1",
       "shaded-relief": "SHD1",
       "tac": "TAC1",
@@ -21,16 +21,16 @@
     "as_of_utc": "2026-08-20T00:00:00Z",
     "bundles": [
       {
-        "filename": "bundle_release_e2e_2609_a09b5f4d3bbec26e0b3b1d57f6a13fb83caead4b88606ded80523ce931c87701.json",
-        "relative_path": "bundle_release_e2e_2609_a09b5f4d3bbec26e0b3b1d57f6a13fb83caead4b88606ded80523ce931c87701.json",
+        "filename": "bundle_release_e2e_2609_e1fad89a8fe520b2f5fa1f642bf43ad0b49df740439c3064642734d61e989f3e.json",
+        "relative_path": "bundle_release_e2e_2609_e1fad89a8fe520b2f5fa1f642bf43ad0b49df740439c3064642734d61e989f3e.json",
         "id": "cycle_2609_01",
         "bundle_type": "cycle",
         "cycle": "2609",
         "cycle_version": "01",
         "start_valid": "2020-01-01",
         "end_valid": "2100-01-01",
-        "checksum_sha256": "a09b5f4d3bbec26e0b3b1d57f6a13fb83caead4b88606ded80523ce931c87701",
-        "size_bytes": 23553
+        "checksum_sha256": "e1fad89a8fe520b2f5fa1f642bf43ad0b49df740439c3064642734d61e989f3e",
+        "size_bytes": 23618
       }
     ]
   }

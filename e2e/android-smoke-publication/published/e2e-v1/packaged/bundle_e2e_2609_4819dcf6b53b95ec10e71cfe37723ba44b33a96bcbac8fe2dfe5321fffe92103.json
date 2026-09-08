@@ -1,0 +1,75 @@
+{
+  "schema_version": 2,
+  "bundle_id": "cycle_2609_01",
+  "bundle_type": "cycle",
+  "cycle": "2609",
+  "cycle_version": "01",
+  "generated_at_utc": "2026-07-25T00:00:00Z",
+  "effective_date": "2020-01-01",
+  "expiration_date": "2100-01-01",
+  "start_valid": "2020-01-01",
+  "end_valid": "2100-01-01",
+  "packages": [
+    {
+      "id": "NAV_DB_NAV25_2609_01",
+      "family_id": "nav-db",
+      "contract_id": "NAV25",
+      "filename": "nav_db_NAV25_2609_01_7af1036bfd13c8b2a5144426b061397621abe0a6522ad9d19cb3f15cb4505d07.zip",
+      "relative_path": "nav_db_NAV25_2609_01_7af1036bfd13c8b2a5144426b061397621abe0a6522ad9d19cb3f15cb4505d07.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "7af1036bfd13c8b2a5144426b061397621abe0a6522ad9d19cb3f15cb4505d07",
+      "size_bytes": 22954813,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "NAV25",
+        "procedure_geometry_error_count": 0,
+        "procedure_geometry_records_with_data_quality": 153,
+        "procedure_geometry_warning_count": 153,
+        "startup_prefetch_members": [
+          "root",
+          "page_0000",
+          "page_0258",
+          "page_0259",
+          "page_0661",
+          "page_0662",
+          "page_0699",
+          "page_2271",
+          "page_2318",
+          "page_3102",
+          "page_3103",
+          "page_3105",
+          "page_3106",
+          "page_3107",
+          "page_3257",
+          "page_3258",
+          "page_3259",
+          "page_3260",
+          "page_3261",
+          "page_3262",
+          "page_3263",
+          "page_3679"
+        ],
+        "weather_camera_site_count": 974
+      }
+    },
+    {
+      "id": "NW_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "nw",
+      "filename": "tpp_nw_TPP1_2609_01_e2e_a6b57f8d5e0a6aef3cbfef63c192820a30da2af00ca16c6dda814dd79f19aaff.zip",
+      "relative_path": "tpp_nw_TPP1_2609_01_e2e_a6b57f8d5e0a6aef3cbfef63c192820a30da2af00ca16c6dda814dd79f19aaff.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "a6b57f8d5e0a6aef3cbfef63c192820a30da2af00ca16c6dda814dd79f19aaff",
+      "size_bytes": 550014,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    }
+  ]
+}

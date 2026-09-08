@@ -7,13 +7,13 @@
       "bundle_manifest_schema": 2
     },
     "package_contracts": {
-      "nav-db": "NAV24",
+      "nav-db": "NAV25",
       "tpp": "TPP1"
     }
   },
-  "source_current_artifacts_sha256": "a7a7b105b7eb5541e7043f13b255759de71390c7dc16d2d6782a23acdf06b93a",
-  "source_bundle_sha256": "48ecb0793777140621f4ffa3d7ea5e8a07602fa6f3e0a7f14c46739bd8d885e4",
-  "source_cycle": "2608",
+  "source_current_artifacts_sha256": "3a4b09c9c10b089833a8cb54fc7f1072ee39f566c519e0527b5f6e345db15100",
+  "source_bundle_sha256": "4ebe78f27c7a879fc47a0b530570599ec8735cf9a4795fc16a065343b0b42394",
+  "source_cycle": "2609",
   "test_validity": {
     "start": "2020-01-01",
     "end": "2100-01-01"
@@ -29,17 +29,17 @@
   "packages": [
     {
       "family_id": "nav-db",
-      "contract_id": "NAV24",
-      "filename": "nav_db_NAV24_2608_01_fc7ca63d511a67198000a82ee4f3c7cd075b8f8f1aecbce704cda83a7be41327.zip",
-      "size_bytes": 22261269,
-      "sha256": "fc7ca63d511a67198000a82ee4f3c7cd075b8f8f1aecbce704cda83a7be41327"
+      "contract_id": "NAV25",
+      "filename": "nav_db_NAV25_2609_01_7af1036bfd13c8b2a5144426b061397621abe0a6522ad9d19cb3f15cb4505d07.zip",
+      "size_bytes": 22954813,
+      "sha256": "7af1036bfd13c8b2a5144426b061397621abe0a6522ad9d19cb3f15cb4505d07"
     },
     {
       "family_id": "tpp",
       "contract_id": "TPP1",
-      "filename": "tpp_nw_TPP1_2608_01_e2e_12a59cc4a7f3c140f4b0d2d38518a782faa86572a304d1dde59d60125dd4c445.zip",
-      "size_bytes": 550571,
-      "sha256": "12a59cc4a7f3c140f4b0d2d38518a782faa86572a304d1dde59d60125dd4c445",
+      "filename": "tpp_nw_TPP1_2609_01_e2e_a6b57f8d5e0a6aef3cbfef63c192820a30da2af00ca16c6dda814dd79f19aaff.zip",
+      "size_bytes": 550014,
+      "sha256": "a6b57f8d5e0a6aef3cbfef63c192820a30da2af00ca16c6dda814dd79f19aaff",
       "airport_id": "PLU",
       "plate_count": 6
     }
