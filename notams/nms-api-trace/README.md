@@ -27,3 +27,20 @@ The raw response bytes are intentionally unmodified because identifiers,
 references, timestamps, and free text are production parser inputs. The
 versioned manifest carries the same usage notice. See the repository
 [provenance audit](../../PROVENANCE.md).
+
+## Publication expectation revision (2026-09-11)
+
+The raw capture, timestamps, and format are unchanged. `expected.json` now
+reflects Aerobag's structured-airport projection introduced by
+`f944d8886eb01df76f94afc608cfebbaebc4e061`, replacing the earlier keyword filter.
+An exact-input comparison of its parent `64976c3d` and `4162491b` preserved all
+96 old transition boundaries and all 820 old mutations. The 22 additional
+boundaries represent two airport-linked AIRSPACE upserts, one explicit source
+cancellation, and 27 expirations in 19 batches. Their 30 mutations cover AIRSPACE
+(22), NAV (3), OBST (4), and SVC (1). The complete new trace has 118 transitions,
+1,407 mutations, 1,178 removals, and 89 repeatedly mutated IDs.
+
+Both full and incremental publication paths agree exactly. Expectations were
+updated after tracing these differences, not by relaxing counts or hashes.
+The source repository records the detailed comparison in
+[`docs/testing/notam-projection-audit-2026-09-11.md`](https://github.com/aerobag/aerobag/blob/main/docs/testing/notam-projection-audit-2026-09-11.md).

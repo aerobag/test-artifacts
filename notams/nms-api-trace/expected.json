@@ -3,9 +3,9 @@
   "baseline_record_count": 32630,
   "poll_count": 498,
   "update_count": 580,
-  "transition_count": 96,
-  "mutation_count": 820,
-  "removal_count": 695,
-  "repeated_mutation_id_count": 69,
-  "final_state_id": "f75cfd5f1b93151208feb6f4f31adb50fd3936fd8d7502332f8de2e3e7eff884"
+  "transition_count": 118,
+  "mutation_count": 1407,
+  "removal_count": 1178,
+  "repeated_mutation_id_count": 89,
+  "final_state_id": "88b960aa5aec2728b561f42df3cef93c004005ced16d3e148c51d8eebaba1862"
 }
