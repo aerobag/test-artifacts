@@ -1,0 +1,681 @@
+{
+  "schema_version": 2,
+  "bundle_id": "cycle_2609_01",
+  "bundle_type": "cycle",
+  "cycle": "2609",
+  "cycle_version": "01",
+  "generated_at_utc": "2026-08-20T00:00:00Z",
+  "effective_date": "2020-01-01",
+  "expiration_date": "2100-01-01",
+  "start_valid": "2020-01-01",
+  "end_valid": "2100-01-01",
+  "packages": [
+    {
+      "id": "NW_CSUP_CSUP1_2609",
+      "family_id": "csup",
+      "contract_id": "CSUP1",
+      "region_id": "nw",
+      "filename": "csup_nw_CSUP1_2609_01_b21eae9ac447de896fe6b19e13cfe6f8b5820d2dd3586ab55b00ef73d1bbd2d3.zip",
+      "relative_path": "csup_nw_CSUP1_2609_01_b21eae9ac447de896fe6b19e13cfe6f8b5820d2dd3586ab55b00ef73d1bbd2d3.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "48c22e0df9792fd9884ed390a41556be46cbd840a7787d5f85b702d50005707f",
+      "size_bytes": 441288,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "CSUP1"
+      }
+    },
+    {
+      "id": "NW_ENR_H_DETAIL_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "nw",
+      "filename": "enr_h_nw_detail_ENH1_2609_01_01840a6a651dbbc320b05dea3651bac2b91be2a5277bb43782be2dfac495638f.zip",
+      "relative_path": "enr_h_nw_detail_ENH1_2609_01_01840a6a651dbbc320b05dea3651bac2b91be2a5277bb43782be2dfac495638f.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "d2e99901ad8d1af6b7885eb8e5018b447a3b703dd7a882a877c68c7b11b19ff2",
+      "size_bytes": 340957,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENH1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 10,
+        "tile_count": 2609,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "nw",
+      "filename": "enr_h_nw_ENH1_2609_01_bbfff0094bfb18983afc11c9dbb417cedfca83dbb2c8f1310275de3a1cf86f4e.zip",
+      "relative_path": "enr_h_nw_ENH1_2609_01_bbfff0094bfb18983afc11c9dbb417cedfca83dbb2c8f1310275de3a1cf86f4e.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "2a64666e31b2512b6052691195f3fdabd1fda957f1b4c13df3233ff1a32a36aa",
+      "size_bytes": 1406792,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENH1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_count": 842,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_ENR_H_ENH1_2609",
+      "family_id": "enr-h",
+      "contract_id": "ENH1",
+      "region_id": "wide",
+      "filename": "enr_h_wide_ENH1_2609_01_14554e9b182cac511d3ff36f5e1e468506730a02c3dbf8db8889ea77ec727306.zip",
+      "relative_path": "enr_h_wide_ENH1_2609_01_14554e9b182cac511d3ff36f5e1e468506730a02c3dbf8db8889ea77ec727306.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "12ea5320b8e3d419204ba68684c8415ee6511f99214992e369c27b9c42323492",
+      "size_bytes": 7483496,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 4,
+            "family_id": "enr-h"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "ENH1",
+        "max_source_zoom": 7,
+        "tile_count": 1883,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_ENR_L_DETAIL_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "nw",
+      "filename": "enr_l_nw_detail_ENL1_2609_01_a1f611f91d4c6a9f38a22a60ac0e3628acb4cbca7a50cbe58f995d6589147670.zip",
+      "relative_path": "enr_l_nw_detail_ENL1_2609_01_a1f611f91d4c6a9f38a22a60ac0e3628acb4cbca7a50cbe58f995d6589147670.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "e06b9c25f331b72d9767304333624ae57076427cc9b5f25cd23e1e1af1658ddd",
+      "size_bytes": 383170,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "ENL1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 9530,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "nw",
+      "filename": "enr_l_nw_ENL1_2609_01_818022c1ea5254220eec017c910d74e805ab67c5c433c87ebb5c4c997fac8f14.zip",
+      "relative_path": "enr_l_nw_ENL1_2609_01_818022c1ea5254220eec017c910d74e805ab67c5c433c87ebb5c4c997fac8f14.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "bd277f98982f1a3df6807bd78f5004ad678a3f1095848cdd9526064d0f333ddb",
+      "size_bytes": 2919238,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "ENL1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 3197,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_ENR_L_ENL1_2609",
+      "family_id": "enr-l",
+      "contract_id": "ENL1",
+      "region_id": "wide",
+      "filename": "enr_l_wide_ENL1_2609_01_ffb62b3b53be7cfee4b3237156bb31cd32667f5275bc7220530c4075844adfce.zip",
+      "relative_path": "enr_l_wide_ENL1_2609_01_ffb62b3b53be7cfee4b3237156bb31cd32667f5275bc7220530c4075844adfce.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "cc270febbea33d9bc07b218f5b49eae3273767f3658eb1815fbc5abad02880c5",
+      "size_bytes": 6117356,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 3,
+            "family_id": "enr-l"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "ENL1",
+        "max_source_zoom": 7,
+        "tile_count": 724,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "nw",
+      "filename": "sec_nw_detail_SEC1_2609_01_0e63ea4d53c9428acd84d5fe1499a6f6930eb98ff6eb8a8f5c0db73b65c3bf14.zip",
+      "relative_path": "sec_nw_detail_SEC1_2609_01_0e63ea4d53c9428acd84d5fe1499a6f6930eb98ff6eb8a8f5c0db73b65c3bf14.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "dd8dd604e66757e9ba59d4f8da012d5dcaeb72c67287886a624adb0b4f310670",
+      "size_bytes": 1019836,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 9271,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "nw",
+      "filename": "sec_nw_SEC1_2609_01_c60f079aae4c4381eff0983d7fd81fbb60460aead2be6b3cd305a37618dda919.zip",
+      "relative_path": "sec_nw_SEC1_2609_01_c60f079aae4c4381eff0983d7fd81fbb60460aead2be6b3cd305a37618dda919.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "b8cb8559117e4c2dcf7a293caf191699591e593a487b35fa4dec305087710565",
+      "size_bytes": 8204582,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 3136,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_SEC_DETAIL_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "sw",
+      "filename": "sec_sw_detail_SEC1_2609_01_94cf32fe5c07017eccc7496a99c9a0abd4bcb89660dbf2a779187cd94c089648.zip",
+      "relative_path": "sec_sw_detail_SEC1_2609_01_94cf32fe5c07017eccc7496a99c9a0abd4bcb89660dbf2a779187cd94c089648.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "4a59d75601de961199a422684ef18b44dddcbac95b34628d661bc85cb145d388",
+      "size_bytes": 1154256,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "SEC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 11,
+        "tile_count": 7794,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "sw",
+      "filename": "sec_sw_SEC1_2609_01_fb38f3fe656d1253da9f0c6b883c8b199738bcaa157afcb05d6c665c0431fc5f.zip",
+      "relative_path": "sec_sw_SEC1_2609_01_fb38f3fe656d1253da9f0c6b883c8b199738bcaa157afcb05d6c665c0431fc5f.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "bb6dac6a947d09efc0d850dc0c539c62e3f15323f89b38a4fc61c12d92a363ed",
+      "size_bytes": 7141562,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "SEC1",
+        "max_source_zoom": 10,
+        "min_source_zoom": 8,
+        "tile_count": 2720,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_SEC_SEC1_2609",
+      "family_id": "sec",
+      "contract_id": "SEC1",
+      "region_id": "wide",
+      "filename": "sec_wide_SEC1_2609_01_8c1b2324e226a2016f9cec3e9098bf73c07b3dd195e36d1d9552810fa4f5bc5d.zip",
+      "relative_path": "sec_wide_SEC1_2609_01_8c1b2324e226a2016f9cec3e9098bf73c07b3dd195e36d1d9552810fa4f5bc5d.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "503505f7790774d5d28574f3a9a9bf2da26298e39d67ea10893a49a4f5cef3ca",
+      "size_bytes": 13697224,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 0,
+            "family_id": "sec"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "SEC1",
+        "max_source_zoom": 7,
+        "tile_count": 776,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "nw",
+      "filename": "tac_nw_detail_TAC1_2609_01_7fe462206124e68aa5433171b4bed28144a067866e381d34c7a2e8a2ea4fb3b2.zip",
+      "relative_path": "tac_nw_detail_TAC1_2609_01_7fe462206124e68aa5433171b4bed28144a067866e381d34c7a2e8a2ea4fb3b2.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "9897b63f10935cf1de9c08d7fbabf41da33f3e60de87dfdd496893fe1a0f129a",
+      "size_bytes": 1280695,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 2406,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NW_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "nw",
+      "filename": "tac_nw_TAC1_2609_01_8e7c34d7b908df47d592be33219000c95bfda4d8659c4f1d739529b656843bc6.zip",
+      "relative_path": "tac_nw_TAC1_2609_01_8e7c34d7b908df47d592be33219000c95bfda4d8659c4f1d739529b656843bc6.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "7c7ad835521912e75f5fe1496388c1e0f8d10948bb9900e1a4c4d224170655aa",
+      "size_bytes": 7879860,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 1000,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_TAC_DETAIL_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "sw",
+      "filename": "tac_sw_detail_TAC1_2609_01_1ebb9744fbb58cf0720c7311458dd406fa9be02cde3a379533c97984fa6e945f.zip",
+      "relative_path": "tac_sw_detail_TAC1_2609_01_1ebb9744fbb58cf0720c7311458dd406fa9be02cde3a379533c97984fa6e945f.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "1c1208c4ba5cfef9e1373450c3360ae8ade101e8a3fdc0b5e9c6aaee98732693",
+      "size_bytes": 1274377,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "detail",
+        "contract_id": "TAC1",
+        "max_source_zoom": 12,
+        "min_source_zoom": 12,
+        "tile_count": 5060,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "SW_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "sw",
+      "filename": "tac_sw_TAC1_2609_01_7c175a23d99a875e9b17ebb487397e0c4b9b2b07c55664e708ab53a3fd972002.zip",
+      "relative_path": "tac_sw_TAC1_2609_01_7c175a23d99a875e9b17ebb487397e0c4b9b2b07c55664e708ab53a3fd972002.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "3b6f05b02f8d8960436f6bdae846dd965ee21e9a9c4f26cf84f527a9ad13e08f",
+      "size_bytes": 24252753,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "regional",
+        "contract_id": "TAC1",
+        "max_source_zoom": 11,
+        "min_source_zoom": 8,
+        "tile_count": 2068,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "WIDE_TAC_TAC1_2609",
+      "family_id": "tac",
+      "contract_id": "TAC1",
+      "region_id": "wide",
+      "filename": "tac_wide_TAC1_2609_01_9e3b514841c1431b39c997eb86f0c61bace3ca15b59b8311800ec2597e1204c4.zip",
+      "relative_path": "tac_wide_TAC1_2609_01_9e3b514841c1431b39c997eb86f0c61bace3ca15b59b8311800ec2597e1204c4.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "89ff0524dc6b05f548bc99da316cd0e413eae6525609b6ec76ea8c4f2edcfab1",
+      "size_bytes": 6953286,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "chart_collections": [
+          {
+            "chart_index": 1,
+            "family_id": "tac"
+          },
+          {
+            "chart_index": 2,
+            "family_id": "flyway"
+          }
+        ],
+        "chart_package_tier": "wide",
+        "contract_id": "TAC1",
+        "max_source_zoom": 7,
+        "tile_count": 313,
+        "wide_angle": true,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NC_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "nc",
+      "filename": "tpp_nc_TPP1_2609_01_730451ed1bef41b53522523cf78a901471b2a8f720d9fceaf9abdbe125d91ac9.zip",
+      "relative_path": "tpp_nc_TPP1_2609_01_730451ed1bef41b53522523cf78a901471b2a8f720d9fceaf9abdbe125d91ac9.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "6b15965f1ba86967a1f9d28289235166ae218c21279a92f9f2513669991c069a",
+      "size_bytes": 167235,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "NW_TPP_TPP1_2609",
+      "family_id": "tpp",
+      "contract_id": "TPP1",
+      "region_id": "nw",
+      "filename": "tpp_nw_TPP1_2609_01_3ce14c5e5d0e3c3633874b0e695988c8bbf8646cbd94865e9929faaaa4fa539b.zip",
+      "relative_path": "tpp_nw_TPP1_2609_01_3ce14c5e5d0e3c3633874b0e695988c8bbf8646cbd94865e9929faaaa4fa539b.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "838d0c2ea8a545efa4f6617e9f1e7bf4f03dab67c2222c9f815f74259904690a",
+      "size_bytes": 1504871,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "TPP1"
+      }
+    },
+    {
+      "id": "world-basemap_WBM1",
+      "family_id": "world-basemap",
+      "contract_id": "WBM1",
+      "filename": "world-basemap_WBM1_12f414a41ff3ed356135105c510cad3e9c2d034741fd50c2ca6c147a2f9f12cd.zip",
+      "relative_path": "world-basemap_WBM1_12f414a41ff3ed356135105c510cad3e9c2d034741fd50c2ca6c147a2f9f12cd.zip",
+      "checksum_sha256": "12f414a41ff3ed356135105c510cad3e9c2d034741fd50c2ca6c147a2f9f12cd",
+      "size_bytes": 944110,
+      "published_at_utc": "2026-06-22T17:53:00Z",
+      "source_version": "11ce34cbdc95683b",
+      "source_fetched_at_utc": "2026-06-24T20:47:25Z",
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "attribution": "Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.",
+        "contract_id": "WBM1",
+        "license": "public-domain",
+        "max_display_zoom": 8.0,
+        "max_source_zoom": 4,
+        "min_zoom": 0,
+        "source": "Natural Earth 110m land and admin-0 boundary lines",
+        "tile_format": "png",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.png",
+        "tile_size": 512
+      }
+    },
+    {
+      "id": "terrain-nw_TER2",
+      "family_id": "terrain",
+      "contract_id": "TER2",
+      "region_id": "nw",
+      "filename": "terrain-nw_TER2_4b912329d5b8f15a1ab6ddb2a63abd36930b185a2a02b68eeffae4d6d9606848.zip",
+      "relative_path": "terrain-nw_TER2_4b912329d5b8f15a1ab6ddb2a63abd36930b185a2a02b68eeffae4d6d9606848.zip",
+      "checksum_sha256": "002846a7203b8361cc9648be2329d8ff6a6413ff4bae5c3941d717e097918363",
+      "size_bytes": 11405488,
+      "published_at_utc": "2026-06-23T22:07:56Z",
+      "source_version": "10505204df43f73c",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "TER2",
+        "max_source_zoom": 9,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "shaded-relief-nw_SHD1",
+      "family_id": "shaded-relief",
+      "contract_id": "SHD1",
+      "region_id": "nw",
+      "filename": "shaded-relief-nw_SHD1_e72a92614c5f3b5ba1c9ccee93a154067ecb92b179883cee32430953a9d32160.zip",
+      "relative_path": "shaded-relief-nw_SHD1_e72a92614c5f3b5ba1c9ccee93a154067ecb92b179883cee32430953a9d32160.zip",
+      "checksum_sha256": "b1b56142d94b630fb66edc85e510f7c6f150d03355eea43dce9b0a01b68e4013",
+      "size_bytes": 1871624,
+      "published_at_utc": "2026-07-26T05:08:08Z",
+      "source_version": "8edeacc8317282f0",
+      "source_fetched_at_utc": "2026-06-23T20:58:20Z",
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "SHD1",
+        "max_source_zoom": 9,
+        "min_source_zoom": 8,
+        "tile_format": "webp",
+        "tile_path_template": "tiles/0/{z}/{x}/{y}.webp",
+        "tile_size": 512,
+        "wide_angle": false,
+        "wide_angle_max_zoom": 7,
+        "wide_angle_region_id": "wide"
+      }
+    },
+    {
+      "id": "NAV_DB_NAV26_2609_01",
+      "family_id": "nav-db",
+      "contract_id": "NAV26",
+      "filename": "nav_db_NAV26_2609_01_c16b4a0ddfa2cf6810de7540f5edf225e698b3af6be55ee0f975408a2aa74abb.zip",
+      "relative_path": "nav_db_NAV26_2609_01_c16b4a0ddfa2cf6810de7540f5edf225e698b3af6be55ee0f975408a2aa74abb.zip",
+      "cycle": "2609",
+      "cycle_version": "01",
+      "checksum_sha256": "c16b4a0ddfa2cf6810de7540f5edf225e698b3af6be55ee0f975408a2aa74abb",
+      "size_bytes": 22814919,
+      "effective_date": "2020-01-01",
+      "expiration_date": "2100-01-01",
+      "metadata": {
+        "contract_id": "NAV26",
+        "procedure_geometry_error_count": 0,
+        "procedure_geometry_records_with_data_quality": 153,
+        "procedure_geometry_warning_count": 153,
+        "startup_prefetch_members": [
+          "root",
+          "page_0000",
+          "page_0236",
+          "page_0258",
+          "page_0259",
+          "page_0661",
+          "page_0662",
+          "page_0699",
+          "page_2271",
+          "page_2318",
+          "page_3102",
+          "page_3103",
+          "page_3105",
+          "page_3106",
+          "page_3107",
+          "page_3147",
+          "page_3148",
+          "page_3149",
+          "page_3150",
+          "page_3151",
+          "page_3152",
+          "page_3153",
+          "page_3569",
+          "page_3570"
+        ],
+        "weather_camera_site_count": 974
+      }
+    }
+  ]
+}

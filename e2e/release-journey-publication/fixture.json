@@ -10,7 +10,7 @@
       "csup": "CSUP1",
       "enr-h": "ENH1",
       "enr-l": "ENL1",
-      "nav-db": "NAV25",
+      "nav-db": "NAV26",
       "sec": "SEC1",
       "shaded-relief": "SHD1",
       "tac": "TAC1",
@@ -26,11 +26,11 @@
     }
   },
   "publication_root": "published",
-  "source_current_artifacts_sha256": "3a4b09c9c10b089833a8cb54fc7f1072ee39f566c519e0527b5f6e345db15100",
+  "source_current_artifacts_sha256": "3451922533c491c84384957bad0bf74471a832843f56654d2d6a83b4e5c75043",
   "publications": [
     {
       "cycle": "2609",
-      "source_bundle_sha256": "4ebe78f27c7a879fc47a0b530570599ec8735cf9a4795fc16a065343b0b42394",
+      "source_bundle_sha256": "09ac5c49852a4752cc2bb9c68e37f2a8e4736f9acf4574638e726c91b2de061a",
       "packages": [
         {
           "family_id": "csup",
@@ -45,12 +45,12 @@
         {
           "family_id": "enr-h",
           "region_id": "nw",
-          "member_count": 89
+          "member_count": 90
         },
         {
           "family_id": "enr-h",
           "region_id": "wide",
-          "member_count": 238
+          "member_count": 243
         },
         {
           "family_id": "enr-l",
@@ -65,7 +65,7 @@
         {
           "family_id": "enr-l",
           "region_id": "wide",
-          "member_count": 148
+          "member_count": 159
         },
         {
           "family_id": "sec",
@@ -115,7 +115,7 @@
         {
           "family_id": "tac",
           "region_id": "wide",
-          "member_count": 125
+          "member_count": 126
         },
         {
           "family_id": "tpp",
@@ -145,7 +145,7 @@
         {
           "family_id": "nav-db",
           "region_id": null,
-          "member_count": 3682
+          "member_count": 3573
         }
       ]
     }
