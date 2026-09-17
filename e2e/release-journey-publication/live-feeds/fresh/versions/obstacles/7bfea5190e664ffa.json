@@ -1,0 +1,30 @@
+{
+  "schema_version": 3,
+  "product": "obstacles",
+  "version": "7bfea5190e664ffa",
+  "previous": "1e512de94fee3fa7",
+  "state": {
+    "kind": "nav_kv",
+    "url": "states/obstacles/7bfea5190e664ffa/manifest.json",
+    "bytes": 2232,
+    "blob_sha256": "d1a7bc197c5a3503f2143848c9df582d3380b951d26e8d35eceb1f050de55adc",
+    "state_sha256": "bafcc9c272ff099f1a3cea1d1755992600b6b07d53c6dda698705f3d8e5d264b"
+  },
+  "install_state": {
+    "kind": "nav_kv_package",
+    "url": "packages/obstacles/7bfea5190e664ffa.zip",
+    "bytes": 2460472,
+    "blob_sha256": "76de00365acd4b58ceffb959cda653f3db1c5136b5c52ad6c8ea6582b69cf0bd",
+    "state_sha256": "bafcc9c272ff099f1a3cea1d1755992600b6b07d53c6dda698705f3d8e5d264b"
+  },
+  "delta_from_previous": {
+    "kind": "nav_kv_delta_xz",
+    "from_version": "1e512de94fee3fa7",
+    "from_state_sha256": "92b7ea0728a356a8f6faa48f8bb41269d322c875dd8efcad83df503ab60f9b2b",
+    "to_version": "7bfea5190e664ffa",
+    "to_state_sha256": "bafcc9c272ff099f1a3cea1d1755992600b6b07d53c6dda698705f3d8e5d264b",
+    "url": "deltas/obstacles/1e512de94fee3fa7__7bfea5190e664ffa.nav-kv-delta.json.xz",
+    "bytes": 180244,
+    "blob_sha256": "3a96cefdde47d4958d6eba4fc9b6efa2aad1cac6a821710ef9ebae9504f9850b"
+  }
+}

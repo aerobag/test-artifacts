@@ -1,0 +1,23 @@
+{
+  "schema_version": 3,
+  "product": "metars",
+  "version": "46008503777a2ea0",
+  "previous": "f59667e7fa170924",
+  "state": {
+    "kind": "json_xz",
+    "url": "states/metars/46008503777a2ea0.json.xz",
+    "bytes": 149020,
+    "blob_sha256": "e338c996c7097882d3f7ab4e89e7b4c30772e43d5a25684d767971d6ff1d19cd",
+    "state_sha256": "a7c38ff385f206070ed6009fa870c69323afc76bb92703cd8e2f39a7b4186447"
+  },
+  "delta_from_previous": {
+    "kind": "record_json_delta_xz",
+    "from_version": "f59667e7fa170924",
+    "from_state_sha256": "131ef26995767576d2ac44c8093662802562bee14b74d0a13c8404d1de2f18c5",
+    "to_version": "46008503777a2ea0",
+    "to_state_sha256": "a7c38ff385f206070ed6009fa870c69323afc76bb92703cd8e2f39a7b4186447",
+    "url": "deltas/metars/f59667e7fa170924__46008503777a2ea0.json.xz",
+    "bytes": 6020,
+    "blob_sha256": "2d20cc71bdd0cf539130cca537f3c1335133d37aef54bcccc8fdbb8ff297dd6d"
+  }
+}

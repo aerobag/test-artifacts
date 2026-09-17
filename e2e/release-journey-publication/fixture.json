@@ -10,7 +10,7 @@
       "csup": "CSUP1",
       "enr-h": "ENH1",
       "enr-l": "ENL1",
-      "nav-db": "NAV26",
+      "nav-db": "NAV28",
       "sec": "SEC1",
       "shaded-relief": "SHD1",
       "tac": "TAC1",
@@ -21,16 +21,16 @@
     "live_feeds": {
       "manifest_schema": 3,
       "product_contracts": {
-        "notams": 7
+        "notams": 9
       }
     }
   },
   "publication_root": "published",
-  "source_current_artifacts_sha256": "3451922533c491c84384957bad0bf74471a832843f56654d2d6a83b4e5c75043",
+  "source_current_artifacts_sha256": "f564b846839b59dd95eb0e8b7b337d583be0d2f743618f5dab20be2064e8cd3d",
   "publications": [
     {
       "cycle": "2609",
-      "source_bundle_sha256": "09ac5c49852a4752cc2bb9c68e37f2a8e4736f9acf4574638e726c91b2de061a",
+      "source_bundle_sha256": "bc87fa8c95d4ff414de980d87c8189921ea0e6d2924bdeb9bc19d8a4cae98a3f",
       "packages": [
         {
           "family_id": "csup",
@@ -145,7 +145,7 @@
         {
           "family_id": "nav-db",
           "region_id": null,
-          "member_count": 3573
+          "member_count": 3574
         }
       ]
     }
@@ -157,14 +157,14 @@
       "empty": true
     },
     {
-      "source_current_sha256": "d94a767bab103645b549ceca43304a7d0616d7d15ad405094f519820972b9439",
+      "source_current_sha256": "a13dc2bdbeee70db7131298d5514637074d8d085dc262af095bee85a86e9ab46",
       "product_count": 8,
       "version_count": 10,
       "stale": false,
       "pirep_overlay": true
     },
     {
-      "source_current_sha256": "d94a767bab103645b549ceca43304a7d0616d7d15ad405094f519820972b9439",
+      "source_current_sha256": "a13dc2bdbeee70db7131298d5514637074d8d085dc262af095bee85a86e9ab46",
       "product_count": 8,
       "version_count": 10,
       "stale": false,
@@ -174,7 +174,7 @@
       "stale_product": "tfrs"
     },
     {
-      "source_current_sha256": "d94a767bab103645b549ceca43304a7d0616d7d15ad405094f519820972b9439",
+      "source_current_sha256": "a13dc2bdbeee70db7131298d5514637074d8d085dc262af095bee85a86e9ab46",
       "product_count": 8,
       "version_count": 10,
       "stale": true,
@@ -183,7 +183,7 @@
   ],
   "dependencies": [],
   "capabilities": {
-    "reference_epoch_ms": 1788615339000,
+    "reference_epoch_ms": 1789674797000,
     "initial_viewport": {
       "latitude": 47.493,
       "longitude": -122.216,

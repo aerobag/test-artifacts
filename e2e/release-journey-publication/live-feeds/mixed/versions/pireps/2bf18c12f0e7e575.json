@@ -1,0 +1,12 @@
+{
+  "schema_version": 3,
+  "product": "pireps",
+  "version": "2bf18c12f0e7e575",
+  "state": {
+    "kind": "json_xz",
+    "url": "states/pireps/2bf18c12f0e7e575.json.xz",
+    "bytes": 51800,
+    "blob_sha256": "3878f9a31ab2ad8cf777f28805e3b57f947763449ba3e35c4254efe815161635",
+    "state_sha256": "dc0c10aec8dbda12729f7c48232fc756ddf4ff8130785d7f4fc3e13bddbfaef6"
+  }
+}

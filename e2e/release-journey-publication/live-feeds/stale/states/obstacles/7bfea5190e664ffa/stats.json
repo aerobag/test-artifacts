@@ -1,0 +1,127 @@
+{
+  "schema_version": 1,
+  "version_label": "7bfea5190e664ffa",
+  "points": {
+    "total_points": 88184,
+    "layer_counts": {
+      "obstacle": 88184
+    },
+    "layers": {
+      "obstacle": {
+        "zoom": 12,
+        "tile_count": 14307,
+        "max_points_in_tile": 286,
+        "zoom_levels": [
+          {
+            "zoom": 0,
+            "filtered": true,
+            "min_agl_ft": 1800,
+            "kept_points": 94,
+            "tile_count": 1,
+            "max_points_in_tile": 94
+          },
+          {
+            "zoom": 1,
+            "filtered": true,
+            "min_agl_ft": 1800,
+            "kept_points": 94,
+            "tile_count": 1,
+            "max_points_in_tile": 94
+          },
+          {
+            "zoom": 2,
+            "filtered": true,
+            "min_agl_ft": 1600,
+            "kept_points": 152,
+            "tile_count": 2,
+            "max_points_in_tile": 91
+          },
+          {
+            "zoom": 3,
+            "filtered": true,
+            "min_agl_ft": 1550,
+            "kept_points": 177,
+            "tile_count": 4,
+            "max_points_in_tile": 87
+          },
+          {
+            "zoom": 4,
+            "filtered": true,
+            "min_agl_ft": 1500,
+            "kept_points": 223,
+            "tile_count": 8,
+            "max_points_in_tile": 95
+          },
+          {
+            "zoom": 5,
+            "filtered": true,
+            "min_agl_ft": 1150,
+            "kept_points": 477,
+            "tile_count": 16,
+            "max_points_in_tile": 99
+          },
+          {
+            "zoom": 6,
+            "filtered": true,
+            "min_agl_ft": 850,
+            "kept_points": 1360,
+            "tile_count": 53,
+            "max_points_in_tile": 95
+          },
+          {
+            "zoom": 7,
+            "filtered": true,
+            "min_agl_ft": 750,
+            "kept_points": 2263,
+            "tile_count": 149,
+            "max_points_in_tile": 392
+          },
+          {
+            "zoom": 8,
+            "filtered": true,
+            "min_agl_ft": 700,
+            "kept_points": 2586,
+            "tile_count": 382,
+            "max_points_in_tile": 387
+          },
+          {
+            "zoom": 9,
+            "filtered": true,
+            "min_agl_ft": 700,
+            "kept_points": 2586,
+            "tile_count": 689,
+            "max_points_in_tile": 387
+          },
+          {
+            "zoom": 10,
+            "filtered": true,
+            "min_agl_ft": 700,
+            "kept_points": 2586,
+            "tile_count": 944,
+            "max_points_in_tile": 273
+          },
+          {
+            "zoom": 11,
+            "filtered": true,
+            "min_agl_ft": 700,
+            "kept_points": 2586,
+            "tile_count": 1125,
+            "max_points_in_tile": 188
+          },
+          {
+            "zoom": 12,
+            "filtered": false,
+            "min_agl_ft": 400,
+            "kept_points": 88184,
+            "tile_count": 14307,
+            "max_points_in_tile": 286
+          }
+        ]
+      }
+    }
+  },
+  "diagnostic_error_count": 0,
+  "warnings": [
+    "obstacle dataset is published separately from the cycle bundle"
+  ]
+}

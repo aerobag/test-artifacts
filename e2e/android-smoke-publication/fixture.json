@@ -7,12 +7,12 @@
       "bundle_manifest_schema": 2
     },
     "package_contracts": {
-      "nav-db": "NAV26",
+      "nav-db": "NAV28",
       "tpp": "TPP1"
     }
   },
-  "source_current_artifacts_sha256": "3451922533c491c84384957bad0bf74471a832843f56654d2d6a83b4e5c75043",
-  "source_bundle_sha256": "09ac5c49852a4752cc2bb9c68e37f2a8e4736f9acf4574638e726c91b2de061a",
+  "source_current_artifacts_sha256": "f564b846839b59dd95eb0e8b7b337d583be0d2f743618f5dab20be2064e8cd3d",
+  "source_bundle_sha256": "bc87fa8c95d4ff414de980d87c8189921ea0e6d2924bdeb9bc19d8a4cae98a3f",
   "source_cycle": "2609",
   "test_validity": {
     "start": "2020-01-01",
@@ -29,10 +29,10 @@
   "packages": [
     {
       "family_id": "nav-db",
-      "contract_id": "NAV26",
-      "filename": "nav_db_NAV26_2609_01_c16b4a0ddfa2cf6810de7540f5edf225e698b3af6be55ee0f975408a2aa74abb.zip",
-      "size_bytes": 22814919,
-      "sha256": "c16b4a0ddfa2cf6810de7540f5edf225e698b3af6be55ee0f975408a2aa74abb"
+      "contract_id": "NAV28",
+      "filename": "nav_db_NAV28_2609_01_2efd027378c2e71d5bec1ee9354ecadeb8ae8357d29851a15c44bd348940fb83.zip",
+      "size_bytes": 22817485,
+      "sha256": "2efd027378c2e71d5bec1ee9354ecadeb8ae8357d29851a15c44bd348940fb83"
     },
     {
       "family_id": "tpp",

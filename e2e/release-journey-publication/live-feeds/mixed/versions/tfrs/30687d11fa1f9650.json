@@ -1,0 +1,23 @@
+{
+  "schema_version": 3,
+  "product": "tfrs",
+  "version": "30687d11fa1f9650",
+  "previous": "1966cfff109637bb",
+  "state": {
+    "kind": "json_xz",
+    "url": "states/tfrs/30687d11fa1f9650.json.xz",
+    "bytes": 60796,
+    "blob_sha256": "b18efc6dcbf55e1943513e4110dd996ea95d4a0341c762a10a45868447c6d66e",
+    "state_sha256": "7f982a09d41e888eaabc87e5aaefaf909b610256925ebb8f0e59963e7954dce6"
+  },
+  "delta_from_previous": {
+    "kind": "record_json_delta_xz",
+    "from_version": "1966cfff109637bb",
+    "from_state_sha256": "c17ce82ce42851e109d5f565226e12a441ed4b34dbd989b8f1f3113dde5607e3",
+    "to_version": "30687d11fa1f9650",
+    "to_state_sha256": "7f982a09d41e888eaabc87e5aaefaf909b610256925ebb8f0e59963e7954dce6",
+    "url": "deltas/tfrs/1966cfff109637bb__30687d11fa1f9650.json.xz",
+    "bytes": 236,
+    "blob_sha256": "b301c8b4a7866ea33ee0099ed23dadd3681de5050df59929973672639b65a9dd"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 3,
+  "product": "tafs",
+  "version": "76b648d65b150bd2",
+  "previous": "7e1376839d038b24",
+  "state": {
+    "kind": "json_xz",
+    "url": "states/tafs/76b648d65b150bd2.json.xz",
+    "bytes": 105284,
+    "blob_sha256": "955e5d7f7626979cee480ca88990b74708d3a68b71631b2cfa5ee0dcf5f11e63",
+    "state_sha256": "63053c4bea452cbcbc58d95bbfd31174a917b6a94243890f5fee74ded1c83bcd"
+  },
+  "delta_from_previous": {
+    "kind": "record_json_delta_xz",
+    "from_version": "7e1376839d038b24",
+    "from_state_sha256": "a75303097044b82c4f19361755b6006be6388458699ab8062414a938be93bac2",
+    "to_version": "76b648d65b150bd2",
+    "to_state_sha256": "63053c4bea452cbcbc58d95bbfd31174a917b6a94243890f5fee74ded1c83bcd",
+    "url": "deltas/tafs/7e1376839d038b24__76b648d65b150bd2.json.xz",
+    "bytes": 2124,
+    "blob_sha256": "315af5017b15d0477cd54efbd751a3b6c15ff4188834609d29064228333b126b"
+  }
+}
