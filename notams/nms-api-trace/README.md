@@ -44,3 +44,25 @@ Both full and incremental publication paths agree exactly. Expectations were
 updated after tracing these differences, not by relaxing counts or hashes.
 The source repository records the detailed comparison in
 [`docs/testing/notam-projection-audit-2026-09-11.md`](https://github.com/aerobag/aerobag/blob/main/docs/testing/notam-projection-audit-2026-09-11.md).
+
+## Publication expectation revision (2026-09-17)
+
+The raw capture and schema remain unchanged. The NOTAM subject-delivery change
+retains all 118 transition boundaries and all 1,407 previous mutations, adding
+36 navaid mutations: five upserts and 31 removals (26 expirations and five
+explicit source cancellations). The reviewed trace has 1,443 mutations, 1,209
+removals, and 89 repeatedly mutated IDs. No previously delivered records or
+mutations are lost.
+
+NOTAM records v9 also adds `airport_aliases`. This replay has no installed
+airport catalog, so those arrays are empty; their presence changes the canonical
+state hash without changing admission or mutation decisions. The final v9 hash
+is `cebde5724a38fa74986965525002cef0a55bdaf80a3ee9968bc9414063a8cc6d`.
+
+Full and incremental stores agreed, and the reviewed local replay passed all
+10 checkpoints, 269 delta spans, and 114 client recovery paths. Hosted run
+35269957905 produced the same counts and final hash but stopped at the stale
+mutation-count assertion. This revision completes that missing fixture handoff;
+it does not relax the replay assertions. The record-by-record comparison and
+cancellation evidence are in
+[`docs/testing/notam-delivery-audit-2026-09-16.md`](https://github.com/aerobag/aerobag/blob/main/docs/testing/notam-delivery-audit-2026-09-16.md#raw-nms-replay-expectation-audit).
